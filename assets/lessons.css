@@ -1,0 +1,212 @@
+.nps-app{font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;color:#182c3b;background:#f5f8fa}
+.nps-app *{box-sizing:border-box}
+.nps-app{margin:0}
+.nps-app{max-width:1060px;margin:auto;padding:22px 18px 75px}
+.nps-app header{background:#12334a;color:white;padding:42px 26px;border-radius:20px;margin-bottom:25px}
+.nps-app h1{font-size:clamp(30px,5vw,52px);line-height:1.05;letter-spacing:-.045em;margin:10px 0}
+.nps-app h2{font-size:clamp(24px,3vw,32px);letter-spacing:-.035em;margin:0 0 8px}
+.nps-app h3{font-size:19px;margin:12px 0}
+.nps-app p{line-height:1.6}
+.nps-app header p{color:#c6d9e3;max-width:700px}
+.nps-app .eyebrow{text-transform:uppercase;letter-spacing:.13em;font-weight:750;font-size:11px;color:#5791b1}
+.nps-app .light{color:#99c9e2}
+.nps-app .lesson{background:white;border:1px solid #dce5ea;border-radius:18px;padding:clamp(16px,3vw,32px);margin:22px 0;box-shadow:0 4px 22px #19354b08}
+.nps-app .sub{color:#526979;margin:0 0 20px}
+.nps-app .controls{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+.nps-app button, .nps-app select{font:inherit}
+.nps-app button{border:1px solid #cbd8e0;border-radius:9px;background:white;color:#244154;padding:10px 13px;cursor:pointer;font-weight:650}
+.nps-app button:hover{border-color:#2d718e}
+.nps-app button.active, .nps-app button.primary{background:#164b68;color:white;border-color:#164b68}
+.nps-app button:focus-visible{outline:3px solid #78b4d0;outline-offset:2px}
+.nps-app .cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.nps-app .panel{border:1px solid #dae5ea;border-radius:12px;padding:16px;min-width:0}
+.nps-app .soft{background:#eff5f7;border:0}
+.nps-app .big{font-size:38px;font-weight:800;letter-spacing:-.04em}
+.nps-app .muted{color:#647887;font-size:13px}
+.nps-app .bars{display:flex;height:18px;border-radius:6px;overflow:hidden;background:#e6ecef}
+.nps-app .bars span{height:100%}
+.nps-app .d{background:#d97870}
+.nps-app .q{background:#dfb65c}
+.nps-app .p{background:#3a9d86}
+.nps-app .legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:#536b78;margin:10px 0}
+.nps-app .legend b{display:inline-block;width:10px;height:10px;margin-right:5px;border-radius:2px}
+.nps-app .callout{background:#edf4f7;border-left:4px solid #387e9d;padding:15px 18px;border-radius:5px;margin-top:18px;line-height:1.55}
+.nps-app .callout strong{display:block;margin-bottom:4px}
+.nps-app .chart{width:100%;display:block;overflow:visible}
+.nps-app .field{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.nps-app .field label{font-size:13px;font-weight:750}
+.nps-app select{border:1px solid #cbd8e0;padding:9px 12px;border-radius:8px;background:white;color:#18364a}
+.nps-app .metric{font-size:27px;font-weight:800;letter-spacing:-.03em}
+.nps-app .tiny{font-size:12px;color:#667987}
+.nps-app .note{font-size:13px;color:#586e7b;line-height:1.5}
+.nps-app .mini-title{font-size:13px;font-weight:750;margin:5px 0}
+.nps-app .hist{height:155px;display:flex;align-items:flex-end;gap:3px;border-bottom:1px solid #9fb2bd;padding-top:6px}
+.nps-app .hist .hcol{height:100%;display:flex;flex:1;flex-direction:column;justify-content:flex-end;min-width:0}
+.nps-app .hist .hbar{width:100%;border-radius:3px 3px 0 0;min-height:1px}
+.nps-app .hist .tick{font-size:10px;text-align:center;color:#71818c;transform:translateY(17px)}
+.nps-app .hist-wrap{padding-bottom:21px}
+.nps-app .grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px}
+.nps-app .touch{min-height:90px;text-align:left;font-size:13px}
+.nps-app .touch small{display:block;margin-top:8px;font-weight:400}
+.nps-app .two{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.nps-app .plotrow{display:grid;grid-template-columns:110px minmax(0,1fr) 65px;align-items:center;gap:8px;margin:9px 0}
+.nps-app .plotrow button{padding:6px 3px;text-align:left;border:0;background:transparent;font-size:13px;font-weight:600}
+.nps-app .plotrow button.active{color:#08718d;text-decoration:underline}
+.nps-app .plotrow svg{width:100%;height:25px;overflow:visible}
+.nps-app .plotrow .num{font-size:12px;text-align:right;font-variant-numeric:tabular-nums}
+.nps-app .question{background:#f2f6f8;padding:12px;border-radius:8px;margin:8px 0;font-size:14px}
+.nps-app .tabs{display:flex;gap:7px;flex-wrap:wrap}
+.nps-app .stat{background:#f0f6f8;border-radius:9px;padding:12px}
+.nps-app .stat .big{font-size:29px}
+.nps-app details{border:1px solid #dce5ea;border-radius:10px;padding:14px 16px;margin:12px 0}
+.nps-app summary{cursor:pointer;font-weight:750}
+.nps-app table{border-collapse:collapse;width:100%;font-size:13px}
+.nps-app td, .nps-app th{text-align:left;padding:9px 8px;border-bottom:1px solid #dce5ea}
+.nps-app a{color:#146b8a}
+.nps-app footer{color:#607483;font-size:13px;margin-top:24px}
+.nps-app ul{line-height:1.7}
+.nps-app .disclaimer{font-size:12px;color:#607582}
+.nps-app #drawA, .nps-app #drawB{width:100%;height:auto}
+@media(max-width:620px){.nps-app .cols{grid-template-columns:1fr}
+.nps-app .grid4{grid-template-columns:repeat(2,minmax(0,1fr))}
+.nps-app .plotrow{grid-template-columns:92px minmax(0,1fr) 48px;gap:4px}
+.nps-app .lesson{margin:13px 0}
+.nps-app .big{font-size:32px}}
+.nps-app{width:100%;max-width:1100px;margin:0 auto;padding:0 0 65px; font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;color:#182c3b;background:#f5f8fa}
+.nps-app .plotrow svg{max-width:100%}
+
+/* Lesson narrative and progressive disclosure (v3). */
+.nps-app .lesson-nav{display:flex;flex-wrap:wrap;gap:8px;margin:-10px 0 26px}
+.nps-app .lesson-nav a{font-size:12px;font-weight:700;color:#25536b;background:#e8f0f4;border:1px solid #d6e4ec;padding:9px 12px;border-radius:100px;text-decoration:none}
+.nps-app .lesson-nav a:hover,.nps-app .lesson-nav a:focus-visible{background:#d5e7ef}
+.nps-app .lesson>h2{max-width:850px;line-height:1.16}
+.nps-app .lesson>.sub{font-size:16px;color:#364e5d;max-width:880px;line-height:1.75;margin:16px 0 16px}
+.nps-app .argument-list{padding:0 0 0 22px;max-width:890px;margin:0 0 27px;line-height:1.65}
+.nps-app .argument-list li{padding:4px 0 5px 5px;color:#3e5361}
+.nps-app .argument-list strong{color:#172e41}
+.nps-app .experiment-title{border-top:1px solid #e4edf0;padding-top:22px;margin-top:12px;margin-bottom:5px}
+.nps-app .experiment-lead{margin-top:0;color:#526979;max-width:760px;font-size:14px}
+.nps-app .takeaway{margin-top:24px;border-top:1px solid #dce7ec;padding-top:16px;max-width:920px}
+.nps-app .takeaway-label{display:block;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.14em;color:#327b93}
+.nps-app .takeaway p{font-size:15px;line-height:1.75;margin:9px 0}
+.nps-app .lesson-sources{font-size:12px;line-height:1.7;color:#617786;max-width:900px;margin:17px 0 10px}
+.nps-app .lesson-bridge{background:#f3f7f9;border-radius:10px;padding:14px 18px;margin:18px 0 0;font-size:15px;line-height:1.6;color:#314c60}
+.nps-app .lesson-bridge p{margin:0}
+.nps-app .lesson-bridge a{font-weight:750;white-space:nowrap}
+.nps-app .baseline-compare{background:#f1f7f9;padding:12px;margin-top:10px;display:flex;gap:14px;flex-wrap:wrap;border-radius:8px;font-size:13px}
+.nps-app .baseline-compare span{display:flex;flex-direction:column;gap:3px}
+.nps-app .baseline-compare strong{font-size:11px;color:#5f7886}
+.nps-app .baseline-compare em{font-weight:750;font-style:normal}
+.nps-app .trend-lab{margin:24px 0 2px;padding:20px;border:1px solid #d4e1e9;border-radius:14px;background:#fbfdfe}
+.nps-app .trend-lab h3{margin:0 0 10px}
+.nps-app .trend-lab>p{font-size:14px;color:#49616f;line-height:1.65}
+.nps-app .trend-stats{margin:14px 0}
+.nps-app .trend-stats .stat{background:#eaf3f7}
+.nps-app .trend-stats .big{font-size:34px}
+.nps-app .trend-stats p{margin:3px 0 0}
+.nps-app .trend-answer{padding:16px;border-radius:10px;background:white;border:1px solid #dbe7ec;margin:12px 0}
+.nps-app .trend-value{display:block;font-size:27px;margin:4px 0 2px;color:#193f55}
+.nps-app .trend-ci{font-size:14px;font-weight:650;margin:4px 0 14px;color:#34586b}
+.nps-app .ci-line{max-width:750px;margin:10px 0 20px}
+.nps-app .ci-axis{height:25px;background:linear-gradient(to right,#eef3f5,#f9fbfc,#eef3f5);border-radius:6px;position:relative}
+.nps-app .ci-zero{width:2px;height:25px;background:#7a93a1;position:absolute;left:50%}
+.nps-app .ci-range{height:5px;background:#2b7c99;position:absolute;top:10px;border-radius:4px}
+.nps-app .ci-range:before,.nps-app .ci-range:after{content:"";position:absolute;top:-5px;width:2px;height:15px;background:#2b7c99}
+.nps-app .ci-range:before{left:0}.nps-app .ci-range:after{right:0}
+.nps-app .ci-center{width:10px;height:10px;border-radius:50%;background:#173f55;position:absolute;top:7px;transform:translateX(-50%)}
+.nps-app .trend-interpretation{margin-bottom:0;line-height:1.6}
+.nps-app .two-questions{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0}
+.nps-app .two-questions>div{padding:15px;background:#f2f7f9;border:1px solid #e2ebef;border-radius:10px}
+.nps-app .two-questions p{font-size:13px;margin:5px 0 0;line-height:1.5}
+.nps-app .habits{max-width:850px;line-height:1.7;padding-left:24px}
+.nps-app .habits li{margin:10px 0;padding-left:6px}
+.nps-app .ending-line{font-weight:750;font-size:18px;margin:22px 0;color:#1d536c}
+.nps-app .reading-list{font-size:13px;line-height:1.7}
+.nps-app .reading-list li{margin:8px 0}
+@media(max-width:640px){.nps-app .two-questions{grid-template-columns:1fr}.nps-app .lesson>.sub{font-size:15px}.nps-app .lesson-bridge{font-size:14px}.nps-app .trend-lab{padding:12px}}
+
+
+/* Editorial authorship and clear takeaways (v5). */
+.nps-app .editorial-hero{background:#f9fcfd;color:#193549;border:1px solid #dbe5ea;border-top:5px solid #1c5b76;border-radius:14px;padding:0;margin-bottom:0;overflow:hidden;box-shadow:0 12px 30px #19354b0a}
+.nps-app .hero-main{padding:39px 32px 37px;max-width:930px}
+.nps-app .hero-edition{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.15em;color:#3c778e;margin-bottom:15px}
+.nps-app .editorial-hero h1{font-family:Georgia,'Times New Roman',serif;font-weight:700;letter-spacing:-.055em;line-height:1.02;font-size:clamp(44px,6.1vw,75px);color:#163b50;margin:0 0 17px}
+.nps-app .editorial-hero .hero-deck{font-size:clamp(19px,2.2vw,24px);line-height:1.42;font-weight:600;letter-spacing:-.02em;color:#375668;max-width:780px;margin:0}
+.nps-app .hero-foot{display:flex;align-items:center;justify-content:space-between;gap:10px 20px;flex-wrap:wrap;background:#eaf3f6;padding:16px 32px;font-size:12px;color:#476475}
+.nps-app .hero-foot span:first-child{font-weight:750;color:#255970}
+/* The author byline sits directly beneath the opening rather than above the title. */
+.nps-app .author-note{display:flex;align-items:flex-start;gap:17px;padding:19px 22px;background:white;border:1px solid #dce7ed;border-radius:12px;margin:12px 0 31px;box-shadow:0 4px 20px #19354b05}
+.nps-app .author-mark{display:grid;place-items:center;flex:0 0 43px;width:43px;height:43px;border-radius:50%;background:#dfeef3;color:#1d5874;font-weight:800;font-size:13px;letter-spacing:-.015em}
+.nps-app .author-note-content{flex:1;min-width:0}
+.nps-app .author-note-label{font-size:10px;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:#477b92;margin:0 0 4px}
+.nps-app .author-note-name{font-size:15px;font-weight:800;color:#193f53;line-height:1.5}
+.nps-app .author-note-name span{font-weight:500;color:#667e8e;font-size:13px}
+.nps-app .author-note p{font-size:13.5px;line-height:1.65;margin:6px 0 0;max-width:710px;color:#465e6c}
+.nps-app .author-note p strong{color:#1e4155}
+.nps-app .author-note-link{display:inline-block;align-self:center;flex-shrink:0;text-decoration:none;border:1px solid #bfd6e1;color:#1b627d;font-weight:750;font-size:12px;padding:10px 14px;border-radius:50px;white-space:nowrap}
+.nps-app .author-note-link:hover,.nps-app .author-note-link:focus-visible{background:#e7f1f5;border-color:#2b718b}
+/* Fixed rhythm for Lesson 3: one label area and one bottom-aligned score row. */
+.nps-app #touchButtons .touch{display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center;gap:10px;min-height:103px;padding:16px 9px 14px;line-height:1.22}
+.nps-app #touchButtons .touch-name{display:block;font-size:13px;font-weight:750;line-height:1.3;max-width:100%;overflow-wrap:normal}
+.nps-app #touchButtons .touch-score{display:block;font-size:15px;font-weight:800;line-height:1.2;white-space:nowrap;letter-spacing:-.015em;font-variant-numeric:tabular-nums;margin-top:auto}
+.nps-app .takeaway{padding-top:20px}
+.nps-app .takeaway-title{font-size:19px;line-height:1.3;letter-spacing:-.025em;font-weight:800;color:#173b51;margin:0 0 12px}
+.nps-app .author-outro{margin:26px 0 8px;background:#173f55;color:white;padding:clamp(23px,3.8vw,42px);border-radius:16px}
+.nps-app .outro-accent{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.15em;color:#aedbe8;margin-bottom:16px}
+.nps-app .author-outro h2{font-family:Georgia,'Times New Roman',serif;font-weight:700;letter-spacing:-.035em;line-height:1.13;color:white;font-size:clamp(27px,3.6vw,42px);margin:0 0 17px}
+.nps-app .author-outro p{max-width:780px;color:#d5e7ed;font-size:15.5px;line-height:1.75;margin:0 0 13px}
+.nps-app .author-outro p strong{color:white}
+.nps-app .outro-link{display:inline-block;margin:13px 0 24px;background:white;color:#174b67;padding:12px 21px;border-radius:9px;font-size:14px;text-decoration:none;font-weight:800;transition:background .15s ease}
+.nps-app .outro-link:hover,.nps-app .outro-link:focus-visible{background:#d4ebf5}
+.nps-app .outro-signature{font-size:13px;font-weight:800;color:white;padding-top:17px;border-top:1px solid #50768a}
+.nps-app .outro-signature span{font-weight:400;color:#c5dce5}
+.nps-app footer{font-size:12px;line-height:1.6}
+@media(max-width:760px){.nps-app .author-note{flex-wrap:wrap}.nps-app .author-note-link{margin-left:60px;align-self:flex-start}}
+@media(max-width:620px){.nps-app .hero-main{padding:27px 21px 29px}.nps-app .hero-foot{padding:16px 21px;flex-direction:column;align-items:flex-start}.nps-app .editorial-hero h1{font-size:clamp(40px,10vw,56px)}.nps-app .author-note{gap:12px;padding:18px 17px;margin-bottom:22px}.nps-app .author-mark{width:37px;height:37px;flex-basis:37px}.nps-app .author-note-content{flex-basis:calc(100% - 49px)}.nps-app .author-note-name span{display:block}.nps-app .author-note-link{margin-left:49px}.nps-app #touchButtons .touch{min-height:96px;padding:12px 5px}.nps-app #touchButtons .touch-name{font-size:12.5px}.nps-app #touchButtons .touch-score{font-size:14px}.nps-app .outro-signature span{display:block;margin-top:4px}}
+
+/* Keep long survey options inside very narrow mobile viewports. */
+.nps-app .field select{max-width:100%;min-width:0}
+
+
+/* v6: simple, personal byline without an initials avatar. */
+.nps-app .author-note{gap:20px;align-items:flex-start;padding:22px 25px}
+.nps-app .author-mark{display:none}
+.nps-app .author-note-content{flex:1;min-width:0}
+.nps-app .author-note-label{letter-spacing:.15em}
+.nps-app .author-note p{max-width:740px;font-size:14px;line-height:1.7;margin-top:9px}
+.nps-app .author-note-link{margin-left:auto;align-self:flex-start;margin-top:5px}
+@media(max-width:760px){.nps-app .author-note-link{margin-left:0}}
+@media(max-width:620px){
+  .nps-app .author-note{padding:19px 18px;display:flex;flex-direction:column;gap:12px}
+  .nps-app .author-note-content{flex-basis:auto}
+  .nps-app .author-note-link{margin:0}
+}
+
+/* v6: make the survey-wording decision visibly consequential. */
+.nps-app .wording-recommendation{margin:9px 0 19px;background:#edf7f7;border-left:4px solid #227f84;border-radius:5px;padding:11px 15px;font-size:15px;color:#27545a}
+.nps-app .wording-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:19px 0 8px}
+.nps-app button.wording-option{display:flex;flex-direction:column;align-items:flex-start;justify-content:space-between;text-align:left;gap:9px;min-height:85px;padding:15px 17px;border-radius:12px;line-height:1.3;font-size:15px;font-weight:800;transition:background .15s,border-color .15s,box-shadow .15s}
+.nps-app button.wording-option--bad{border:2px solid #e5b2ae;color:#992d30;background:#fff7f6}
+.nps-app button.wording-option--good{border:2px solid #9bc7cf;color:#16566c;background:#f3f9fa}
+.nps-app button.wording-option--bad:hover{background:#fff0ee;border-color:#c95151}
+.nps-app button.wording-option--good:hover{background:#e7f4f6;border-color:#2a8691}
+.nps-app button.wording-option--bad.active{background:#fce9e7;color:#90262b;border-color:#bd4247;box-shadow:0 0 0 2px #f2d2cf inset}
+.nps-app button.wording-option--good.active{background:#e2f2f3;color:#124d63;border-color:#268093;box-shadow:0 0 0 2px #c9e5e8 inset}
+.nps-app .wording-option-badge{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.01em;padding:4px 9px;border-radius:6px}
+.nps-app .wording-option--bad .wording-option-badge{background:#fce5e2;color:#9d3439}
+.nps-app .wording-option--good .wording-option-badge{background:#dbf0ef;color:#136c72}
+.nps-app .wording-mode-caption{font-size:13px;color:#576f7c;margin:12px 0 11px;min-height:18px}
+.nps-app .wording-card-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.nps-app .wording-card-grid .panel{padding:13px 13px 10px}
+.nps-app .wording-card-grid .mini-title{margin:1px 0 8px}
+.nps-app .wording-card-grid .question{margin:0;font-size:13px;line-height:1.45;min-height:62px;display:flex;align-items:center}
+.nps-app .wording-card-grid--bad .panel{border-color:#ecd0cc}
+.nps-app .wording-card-grid--good .panel{border-color:#c8e3e3}
+.nps-app .wording-impact{border-radius:10px;padding:16px 18px;margin:16px 0 27px;line-height:1.62;font-size:14px;display:flex;flex-direction:column;gap:5px;border-left:5px solid}
+.nps-app .wording-impact strong{font-size:15px}
+.nps-app .wording-impact.negative{background:#fff0ef;border-color:#c64c50;color:#623339}
+.nps-app .wording-impact.negative strong{color:#a52e35}
+.nps-app .wording-impact.positive{background:#eaf5f6;border-color:#227c88;color:#2d555f}
+.nps-app .wording-impact.positive strong{color:#115e70}
+@media(max-width:720px){.nps-app .wording-card-grid{grid-template-columns:1fr}.nps-app .wording-card-grid .question{min-height:0}}
+@media(max-width:490px){.nps-app .wording-options{grid-template-columns:1fr}.nps-app button.wording-option{min-height:70px}}

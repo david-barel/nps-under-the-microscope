@@ -1,0 +1,59 @@
+---
+title: "Methods & reproducibility"
+---
+
+## Study design
+
+This is a **fictional educational case study**, not a report about an actual banking app. Lessons 1–4 use hand-constructed scenarios to isolate mathematical and survey-design principles. Lesson 5 uses 1,600 synthetic respondent-level records, with a single relationship-NPS question and the same open-ended follow-up for every respondent.
+
+The simulation does not attempt to estimate actual bank customer satisfaction, real-world response distributions, causal drivers or revenue growth.
+
+## Reproduce the analysis
+
+1. Clone the repository and open its root directory.
+2. Inspect `data/fictional_bank_nps.csv`.
+3. Run `Rscript scripts/analyze.R` to calculate NPS, fit the topic-association model, and reproduce the sample-size examples.
+4. Optionally run `python scripts/generate_data.py` to regenerate the **same** synthetic data with a fixed random seed and refresh the precomputed website model results. This requires NumPy, pandas and statsmodels. Refresh the browser asset by copying `assets/model_results.json` into the JavaScript assignment in `assets/model_results.js` (or use the small helper in the README).
+5. Run `quarto preview` or `quarto render` to build the website.
+
+## Model
+
+The dependent variable is the original 0–10 recommendation score, **not an individual NPS**. Predictors are seven binary coded topic-mention indicators, segment and tenure. Topic coding is independent of sentiment: praising and criticizing the same topic both produce a mention indicator. The displayed coefficients use OLS with HC3 heteroskedasticity-robust 95% intervals.
+
+Because open-ended comments are self-selected explanations of the score, associations cannot be interpreted as causal effects. The data generator deliberately introduces associations and random noise; coefficients are fitted to these synthetic records rather than hand-entered.
+
+## NPS precision formula
+
+For each respondent, define \(X=1\) for promoter, \(X=0\) for passive, and \(X=-1\) for detractor. Then:
+
+\[
+\widehat{NPS}=100\bar X,\quad
+\mathrm{Var}(X)=p_P+p_D-(p_P-p_D)^2.
+\]
+
+The normal-approximation sample-size planning formula is:
+
+\[
+n=\left\lceil\frac{z^2\,10{,}000\,\mathrm{Var}(X)}{m^2}\right\rceil,
+\]
+
+with \(z=1.96\) for nominal 95% confidence and \(m\) the margin in NPS points. This assumes random independent sampling from a fixed population with known theoretical category proportions. The 20-draw illustration uses this theoretical model and does not claim to be an adjusted-Wald interval estimator.
+
+## References
+
+See the reference list at the bottom of the [interactive lesson](assets/playground.html), including Reichheld (2003), Keiningham et al. (2007), Kristensen and Eskildsen (2014), MeasuringU's NPS sample-size guidance, and academic work on natural-language processing of customer feedback.
+
+## Comparing two NPS survey waves
+
+Lesson 4 Part B illustrates an observed change from +30 (September) to +36 (October) using two **independent, hypothetical** samples with fixed category proportions. September is 65% promoters and 35% detractors, while October is 68% promoters and 32% detractors; neither population has passives. These are selected to make the arithmetic transparent, not to mimic typical banks.
+
+For two independently sampled waves, the normal-approximation standard error of the difference in NPS points is
+
+\[
+SE(\widehat{NPS}_{Oct}-\widehat{NPS}_{Sep})
+=100\sqrt{\frac{V_{Oct}}{n_{Oct}} + \frac{V_{Sep}}{n_{Sep}}},
+\]
+
+where each variance \(V\) is computed from that wave's own category proportions using the formula above. The illustrative 95% interval is the observed difference ±1.96 × this standard error. The website provides 100, 300, 1,000 and 3,000 respondents **per month** and recalculates the interval as the sample size changes. The matching R calculation is in `compare_waves()` in `scripts/analyze.R`.
+
+**Interpretation:** Statistical distinguishability from zero is not evidence of the cause of the movement, nor does a nonsignificant difference establish no change. This simplified illustration presumes independent random samples, comparable measurement and no systematic response bias. More complex designs (e.g., repeated respondents, weighting or cluster sampling) require appropriately adapted inference.

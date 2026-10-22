@@ -1,0 +1,1601 @@
+respondent_id,segment,tenure_years,recommendation_score,open_end,topic_fees,topic_reliability,topic_navigation,topic_speed,topic_features,topic_trust,topic_clarity
+B0001,Saver,2,3,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0002,Everyday,3,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B0003,Saver,3,8,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0004,Saver,1,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0005,Saver,2,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B0006,Everyday,3,6,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0007,Saver,2,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0008,Saver,3,5,Everything feels quick.,0,0,0,1,0,0,0
+B0009,Saver,3,8,Everything feels quick.,0,0,0,1,0,0,0
+B0010,Everyday,1,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0011,Saver,4,7,I trust the app with my money.,0,0,0,0,0,1,0
+B0012,Saver,3,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0013,Everyday,1,4,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0014,Everyday,2,6,Important features are missing.,0,0,0,0,1,0,0
+B0015,Investor,6,7,Everything feels quick.,0,0,0,1,0,0,0
+B0016,Saver,5,7,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0017,Everyday,2,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0018,Saver,4,4,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0019,Everyday,1,10,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0020,Everyday,4,8,The information is easy to understand.,0,0,0,0,0,0,1
+B0021,Everyday,1,9,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B0022,Everyday,5,5,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0023,Everyday,2,7,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0024,Everyday,5,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0025,Saver,1,9,I trust the app with my money.,0,0,0,0,0,1,0
+B0026,Investor,5,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0027,Saver,4,2,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0028,Saver,4,4,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0029,Everyday,3,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0030,Investor,6,8,The features cover what I need; The information is confusing.,0,0,0,0,1,0,1
+B0031,Saver,4,7,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B0032,Everyday,1,5,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B0033,Everyday,1,8,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0034,Everyday,3,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0035,Saver,0,5,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0036,Investor,1,4,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0037,Saver,4,8,The information is easy to understand; The features cover what I need.,0,0,0,0,1,0,1
+B0038,Saver,6,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0039,Everyday,4,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0040,Saver,4,7,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0041,Everyday,3,9,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0042,Saver,1,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B0043,Investor,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0044,Saver,0,5,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0045,Everyday,6,7,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0046,Everyday,2,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0047,Everyday,3,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0048,Saver,0,7,The app works reliably.,0,1,0,0,0,0,0
+B0049,Everyday,3,10,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0050,Everyday,5,5,It is hard to find what I need; I am not fully confident my money is safe.,0,0,1,0,0,1,0
+B0051,Investor,1,6,The information is easy to understand.,0,0,0,0,0,0,1
+B0052,Everyday,3,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0053,Saver,3,7,The information is easy to understand.,0,0,0,0,0,0,1
+B0054,Everyday,3,6,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0055,Everyday,0,5,Important features are missing.,0,0,0,0,1,0,0
+B0056,Saver,2,8,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B0057,Everyday,6,8,Important features are missing.,0,0,0,0,1,0,0
+B0058,Everyday,4,6,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0059,Saver,3,5,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B0060,Saver,2,10,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0061,Everyday,5,9,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B0062,Everyday,4,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0063,Everyday,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0064,Saver,3,7,The information is easy to understand; The features cover what I need.,0,0,0,0,1,0,1
+B0065,Investor,4,6,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0066,Saver,5,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0067,Everyday,2,10,Everything feels quick.,0,0,0,1,0,0,0
+B0068,Investor,5,9,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0069,Saver,2,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0070,Everyday,2,9,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0071,Everyday,5,4,Everything feels quick.,0,0,0,1,0,0,0
+B0072,Saver,5,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0073,Everyday,6,9,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0074,Everyday,1,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0075,Everyday,5,5,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0076,Everyday,5,8,The information is confusing; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0077,Saver,1,4,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B0078,Everyday,6,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B0079,Everyday,2,5,The information is confusing; Important features are missing.,0,0,0,0,1,0,1
+B0080,Everyday,4,5,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0081,Everyday,1,8,The features cover what I need.,0,0,0,0,1,0,0
+B0082,Saver,1,7,The app works reliably.,0,1,0,0,0,0,0
+B0083,Everyday,5,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0084,Investor,3,9,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0085,Investor,0,8,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0086,Everyday,5,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0087,Saver,0,8,The app works reliably.,0,1,0,0,0,0,0
+B0088,Investor,4,8,Everything feels quick.,0,0,0,1,0,0,0
+B0089,Everyday,4,4,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0090,Saver,2,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0091,Everyday,6,8,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B0092,Everyday,1,9,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0093,Investor,2,8,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0094,Saver,1,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0095,Saver,2,7,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0096,Saver,2,9,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B0097,Saver,3,9,Everything feels quick.,0,0,0,1,0,0,0
+B0098,Saver,1,4,The features cover what I need.,0,0,0,0,1,0,0
+B0099,Saver,2,4,I am not fully confident my money is safe; The app sometimes freezes or fails.,0,1,0,0,0,1,0
+B0100,Everyday,1,8,It is hard to find what I need; The information is confusing.,0,0,1,0,0,0,1
+B0101,Everyday,6,9,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0102,Everyday,4,6,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0103,Saver,3,5,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B0104,Everyday,2,5,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0105,Saver,2,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0106,Everyday,2,9,Tasks take longer than expected; I trust the app with my money.,0,0,0,1,0,1,0
+B0107,Investor,2,9,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B0108,Saver,4,6,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0109,Everyday,3,9,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0110,Everyday,6,9,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B0111,Everyday,2,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0112,Investor,6,6,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B0113,Saver,2,3,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0114,Investor,4,6,The information is easy to understand.,0,0,0,0,0,0,1
+B0115,Investor,3,9,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B0116,Everyday,3,7,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0117,Everyday,4,7,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0118,Everyday,6,10,The app works reliably.,0,1,0,0,0,0,0
+B0119,Investor,5,8,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B0120,Everyday,4,8,Everything feels quick.,0,0,0,1,0,0,0
+B0121,Everyday,0,9,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0122,Saver,6,7,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0123,Investor,2,7,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0124,Everyday,0,5,It is hard to find what I need.,0,0,1,0,0,0,0
+B0125,Investor,2,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0126,Saver,5,6,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B0127,Everyday,5,6,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0128,Saver,6,8,The features cover what I need.,0,0,0,0,1,0,0
+B0129,Everyday,1,10,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B0130,Everyday,2,6,The features cover what I need.,0,0,0,0,1,0,0
+B0131,Saver,4,7,The app works reliably.,0,1,0,0,0,0,0
+B0132,Everyday,4,10,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0133,Everyday,4,9,Everything feels quick.,0,0,0,1,0,0,0
+B0134,Investor,5,10,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B0135,Saver,2,5,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0136,Everyday,3,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0137,Everyday,2,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0138,Saver,5,9,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0139,Investor,1,7,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B0140,Everyday,1,9,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0141,Investor,1,3,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B0142,Everyday,2,6,The app works reliably.,0,1,0,0,0,0,0
+B0143,Saver,6,7,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0144,Everyday,4,6,The features cover what I need.,0,0,0,0,1,0,0
+B0145,Saver,4,8,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B0146,Everyday,5,3,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0147,Everyday,4,9,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B0148,Saver,5,7,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B0149,Everyday,3,7,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B0150,Everyday,0,8,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B0151,Everyday,6,9,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B0152,Saver,4,10,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B0153,Everyday,6,5,Everything feels quick.,0,0,0,1,0,0,0
+B0154,Saver,0,5,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0155,Everyday,3,5,I can find what I need easily.,0,0,1,0,0,0,0
+B0156,Everyday,6,5,Fees are clear and reasonable; The information is easy to understand.,1,0,0,0,0,0,1
+B0157,Everyday,6,4,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0158,Everyday,4,9,It is hard to find what I need.,0,0,1,0,0,0,0
+B0159,Saver,5,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0160,Saver,2,8,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0161,Everyday,1,9,I trust the app with my money.,0,0,0,0,0,1,0
+B0162,Saver,4,6,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0163,Saver,3,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0164,Everyday,3,7,Everything feels quick.,0,0,0,1,0,0,0
+B0165,Saver,2,10,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0166,Everyday,2,7,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B0167,Everyday,4,6,Tasks take longer than expected; The information is easy to understand.,0,0,0,1,0,0,1
+B0168,Investor,1,8,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B0169,Saver,0,7,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B0170,Saver,4,4,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0171,Everyday,2,4,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0172,Investor,1,7,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B0173,Everyday,5,8,The information is easy to understand.,0,0,0,0,0,0,1
+B0174,Everyday,0,4,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0175,Everyday,5,9,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B0176,Investor,4,8,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0177,Investor,1,7,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0178,Investor,4,5,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0179,Investor,1,10,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B0180,Everyday,4,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0181,Saver,2,7,Everything feels quick.,0,0,0,1,0,0,0
+B0182,Everyday,2,5,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B0183,Everyday,4,9,Everything feels quick.,0,0,0,1,0,0,0
+B0184,Everyday,4,4,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0185,Everyday,6,9,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B0186,Investor,2,6,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0187,Investor,3,7,The app works reliably.,0,1,0,0,0,0,0
+B0188,Saver,6,5,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0189,Everyday,0,8,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0190,Everyday,2,7,Everything feels quick.,0,0,0,1,0,0,0
+B0191,Everyday,3,9,Important features are missing.,0,0,0,0,1,0,0
+B0192,Everyday,0,8,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0193,Investor,4,9,I trust the app with my money.,0,0,0,0,0,1,0
+B0194,Investor,1,9,Everything feels quick.,0,0,0,1,0,0,0
+B0195,Everyday,2,8,The features cover what I need; It is hard to find what I need.,0,0,1,0,1,0,0
+B0196,Saver,2,10,It is hard to find what I need; The information is confusing.,0,0,1,0,0,0,1
+B0197,Everyday,4,7,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0198,Everyday,0,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0199,Saver,4,6,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B0200,Investor,2,4,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B0201,Everyday,3,7,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0202,Everyday,5,10,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0203,Investor,0,5,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B0204,Everyday,4,2,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0205,Investor,2,5,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0206,Saver,3,7,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0207,Saver,6,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0208,Saver,1,7,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0209,Everyday,3,9,I trust the app with my money.,0,0,0,0,0,1,0
+B0210,Investor,2,7,The app works reliably.,0,1,0,0,0,0,0
+B0211,Saver,0,6,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B0212,Everyday,3,6,Tasks take longer than expected; I trust the app with my money.,0,0,0,1,0,1,0
+B0213,Saver,0,5,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0214,Investor,1,10,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0215,Saver,3,5,The features cover what I need.,0,0,0,0,1,0,0
+B0216,Investor,3,9,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0217,Saver,2,9,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0218,Everyday,6,10,The app works reliably.,0,1,0,0,0,0,0
+B0219,Investor,0,8,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B0220,Everyday,1,6,Fees feel unpredictable and expensive; Important features are missing.,1,0,0,0,1,0,0
+B0221,Saver,6,9,Important features are missing.,0,0,0,0,1,0,0
+B0222,Everyday,4,6,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0223,Investor,3,3,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0224,Everyday,2,7,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0225,Everyday,3,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0226,Everyday,3,10,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0227,Saver,1,9,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0228,Everyday,4,3,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0229,Saver,2,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0230,Investor,1,5,I can find what I need easily.,0,0,1,0,0,0,0
+B0231,Investor,1,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0232,Saver,3,6,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0233,Everyday,0,10,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0234,Investor,3,5,I trust the app with my money.,0,0,0,0,0,1,0
+B0235,Everyday,4,10,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0236,Everyday,0,8,Everything feels quick.,0,0,0,1,0,0,0
+B0237,Saver,4,7,The features cover what I need.,0,0,0,0,1,0,0
+B0238,Everyday,1,10,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B0239,Everyday,5,5,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B0240,Saver,5,6,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0241,Saver,2,5,I trust the app with my money; The information is confusing.,0,0,0,0,0,1,1
+B0242,Saver,1,9,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0243,Everyday,0,6,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0244,Everyday,2,7,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B0245,Saver,0,1,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0246,Saver,3,5,The app works reliably.,0,1,0,0,0,0,0
+B0247,Saver,3,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0248,Saver,4,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0249,Everyday,3,8,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B0250,Everyday,3,9,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0251,Everyday,2,3,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B0252,Saver,5,6,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0253,Saver,6,10,Everything feels quick.,0,0,0,1,0,0,0
+B0254,Everyday,2,5,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0255,Everyday,6,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0256,Everyday,3,6,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B0257,Everyday,2,8,Everything feels quick.,0,0,0,1,0,0,0
+B0258,Everyday,4,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0259,Everyday,4,8,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B0260,Saver,0,4,It is hard to find what I need.,0,0,1,0,0,0,0
+B0261,Everyday,6,10,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0262,Investor,2,7,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0263,Everyday,5,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0264,Everyday,2,5,I can find what I need easily.,0,0,1,0,0,0,0
+B0265,Saver,2,4,The information is easy to understand; I can find what I need easily.,0,0,1,0,0,0,1
+B0266,Saver,3,8,Important features are missing.,0,0,0,0,1,0,0
+B0267,Everyday,4,7,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0268,Saver,2,5,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0269,Investor,3,5,It is hard to find what I need; The information is confusing.,0,0,1,0,0,0,1
+B0270,Everyday,0,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0271,Everyday,4,10,The app works reliably.,0,1,0,0,0,0,0
+B0272,Everyday,2,5,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0273,Saver,4,10,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B0274,Everyday,6,5,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0275,Saver,3,6,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0276,Investor,2,9,Important features are missing.,0,0,0,0,1,0,0
+B0277,Saver,3,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0278,Everyday,3,7,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0279,Saver,4,5,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0280,Everyday,3,7,Important features are missing.,0,0,0,0,1,0,0
+B0281,Saver,3,7,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B0282,Everyday,4,6,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0283,Saver,0,5,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0284,Saver,3,5,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B0285,Saver,4,4,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0286,Everyday,1,8,It is hard to find what I need; Fees are clear and reasonable.,1,0,1,0,0,0,0
+B0287,Everyday,6,10,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0288,Everyday,3,8,Fees feel unpredictable and expensive; I am not fully confident my money is safe.,1,0,0,0,0,1,0
+B0289,Everyday,6,7,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0290,Everyday,1,9,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0291,Everyday,4,9,The information is easy to understand; I can find what I need easily.,0,0,1,0,0,0,1
+B0292,Saver,0,9,The features cover what I need.,0,0,0,0,1,0,0
+B0293,Saver,4,9,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B0294,Investor,4,10,Everything feels quick.,0,0,0,1,0,0,0
+B0295,Everyday,1,6,Tasks take longer than expected; The information is confusing.,0,0,0,1,0,0,1
+B0296,Saver,4,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0297,Everyday,5,8,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B0298,Everyday,2,7,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B0299,Everyday,2,9,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B0300,Saver,4,8,Everything feels quick.,0,0,0,1,0,0,0
+B0301,Everyday,2,7,The features cover what I need.,0,0,0,0,1,0,0
+B0302,Everyday,1,7,Important features are missing.,0,0,0,0,1,0,0
+B0303,Everyday,1,10,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B0304,Everyday,1,5,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0305,Everyday,0,6,Everything feels quick.,0,0,0,1,0,0,0
+B0306,Investor,4,10,Fees are clear and reasonable; The app works reliably.,1,1,0,0,0,0,0
+B0307,Everyday,3,8,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0308,Everyday,5,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0309,Everyday,6,10,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0310,Saver,3,10,Fees are clear and reasonable; The app works reliably.,1,1,0,0,0,0,0
+B0311,Saver,2,9,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0312,Everyday,4,6,I trust the app with my money.,0,0,0,0,0,1,0
+B0313,Everyday,3,6,I trust the app with my money.,0,0,0,0,0,1,0
+B0314,Investor,4,10,I can find what I need easily; The information is confusing.,0,0,1,0,0,0,1
+B0315,Saver,4,7,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B0316,Everyday,3,6,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B0317,Everyday,1,7,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B0318,Everyday,4,9,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B0319,Investor,4,10,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0320,Saver,0,6,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0321,Everyday,5,7,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0322,Everyday,2,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0323,Everyday,5,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B0324,Investor,5,7,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0325,Saver,4,10,The features cover what I need.,0,0,0,0,1,0,0
+B0326,Saver,4,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0327,Everyday,3,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0328,Everyday,3,7,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0329,Saver,0,10,The features cover what I need.,0,0,0,0,1,0,0
+B0330,Everyday,0,8,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0331,Everyday,6,10,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B0332,Saver,4,3,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0333,Investor,3,8,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0334,Saver,4,7,Everything feels quick; The information is easy to understand.,0,0,0,1,0,0,1
+B0335,Saver,5,9,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0336,Investor,0,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0337,Everyday,5,7,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B0338,Everyday,1,10,Fees are clear and reasonable; The app works reliably.,1,1,0,0,0,0,0
+B0339,Investor,0,7,Tasks take longer than expected; The features cover what I need.,0,0,0,1,1,0,0
+B0340,Saver,3,10,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B0341,Saver,2,7,The features cover what I need.,0,0,0,0,1,0,0
+B0342,Everyday,6,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B0343,Investor,3,8,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B0344,Saver,2,3,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0345,Investor,3,6,Important features are missing.,0,0,0,0,1,0,0
+B0346,Investor,4,10,The information is easy to understand.,0,0,0,0,0,0,1
+B0347,Everyday,3,3,I am not fully confident my money is safe; I can find what I need easily.,0,0,1,0,0,1,0
+B0348,Saver,4,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0349,Everyday,5,9,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B0350,Saver,4,9,The information is confusing.,0,0,0,0,0,0,1
+B0351,Everyday,4,8,The features cover what I need.,0,0,0,0,1,0,0
+B0352,Saver,3,8,The information is easy to understand; I trust the app with my money.,0,0,0,0,0,1,1
+B0353,Saver,4,10,The app works reliably.,0,1,0,0,0,0,0
+B0354,Saver,0,10,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B0355,Investor,6,7,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0356,Everyday,4,7,Fees feel unpredictable and expensive; I am not fully confident my money is safe.,1,0,0,0,0,1,0
+B0357,Everyday,3,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B0358,Saver,4,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B0359,Everyday,3,7,The information is easy to understand.,0,0,0,0,0,0,1
+B0360,Everyday,6,4,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0361,Everyday,1,7,I trust the app with my money; It is hard to find what I need.,0,0,1,0,0,1,0
+B0362,Saver,4,10,Fees are clear and reasonable; The app works reliably.,1,1,0,0,0,0,0
+B0363,Saver,4,10,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B0364,Everyday,3,8,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0365,Everyday,6,7,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0366,Everyday,4,7,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0367,Saver,5,10,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B0368,Investor,6,8,Important features are missing; Tasks take longer than expected.,0,0,0,1,1,0,0
+B0369,Everyday,4,10,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0370,Everyday,3,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0371,Everyday,0,6,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0372,Saver,1,7,The information is confusing.,0,0,0,0,0,0,1
+B0373,Everyday,3,7,Everything feels quick.,0,0,0,1,0,0,0
+B0374,Everyday,4,8,The app works reliably.,0,1,0,0,0,0,0
+B0375,Saver,2,9,Important features are missing.,0,0,0,0,1,0,0
+B0376,Everyday,3,5,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0377,Saver,0,7,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0378,Everyday,3,8,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B0379,Saver,3,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0380,Everyday,1,6,The app works reliably.,0,1,0,0,0,0,0
+B0381,Everyday,5,7,The features cover what I need.,0,0,0,0,1,0,0
+B0382,Saver,0,9,The information is confusing.,0,0,0,0,0,0,1
+B0383,Saver,5,9,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B0384,Everyday,3,9,Fees are clear and reasonable; Everything feels quick.,1,0,0,1,0,0,0
+B0385,Investor,5,8,I am not fully confident my money is safe; I can find what I need easily.,0,0,1,0,0,1,0
+B0386,Everyday,5,8,The app works reliably.,0,1,0,0,0,0,0
+B0387,Everyday,1,5,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0388,Everyday,4,8,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0389,Investor,0,7,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0390,Investor,5,5,Fees feel unpredictable and expensive; Important features are missing.,1,0,0,0,1,0,0
+B0391,Saver,1,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0392,Everyday,2,6,Everything feels quick.,0,0,0,1,0,0,0
+B0393,Everyday,5,7,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0394,Investor,4,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0395,Everyday,5,9,I trust the app with my money.,0,0,0,0,0,1,0
+B0396,Saver,0,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0397,Everyday,0,6,I trust the app with my money.,0,0,0,0,0,1,0
+B0398,Investor,1,8,The features cover what I need.,0,0,0,0,1,0,0
+B0399,Saver,4,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0400,Saver,5,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0401,Everyday,3,9,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B0402,Saver,3,10,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0403,Everyday,2,10,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0404,Everyday,1,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B0405,Saver,6,6,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0406,Saver,5,4,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0407,Everyday,3,7,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B0408,Everyday,1,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0409,Saver,6,6,Everything feels quick.,0,0,0,1,0,0,0
+B0410,Saver,2,6,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0411,Everyday,3,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0412,Everyday,3,8,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0413,Everyday,3,6,I trust the app with my money.,0,0,0,0,0,1,0
+B0414,Everyday,2,7,Fees feel unpredictable and expensive; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0415,Everyday,4,6,The features cover what I need.,0,0,0,0,1,0,0
+B0416,Everyday,6,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0417,Investor,0,5,Important features are missing.,0,0,0,0,1,0,0
+B0418,Everyday,5,4,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0419,Investor,4,7,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0420,Saver,3,10,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0421,Everyday,5,4,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0422,Saver,2,9,The app works reliably.,0,1,0,0,0,0,0
+B0423,Everyday,2,10,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B0424,Investor,0,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0425,Everyday,5,6,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0426,Saver,6,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B0427,Investor,6,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0428,Everyday,2,8,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0429,Saver,3,10,The features cover what I need.,0,0,0,0,1,0,0
+B0430,Investor,2,10,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0431,Everyday,5,9,The information is easy to understand; I can find what I need easily.,0,0,1,0,0,0,1
+B0432,Everyday,4,7,The features cover what I need.,0,0,0,0,1,0,0
+B0433,Investor,1,8,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B0434,Everyday,5,2,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0435,Saver,4,9,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B0436,Everyday,3,9,It is hard to find what I need.,0,0,1,0,0,0,0
+B0437,Saver,0,8,The information is easy to understand.,0,0,0,0,0,0,1
+B0438,Saver,2,5,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0439,Investor,3,8,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0440,Saver,0,10,The features cover what I need.,0,0,0,0,1,0,0
+B0441,Everyday,0,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0442,Everyday,4,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0443,Saver,5,10,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0444,Saver,5,10,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B0445,Everyday,2,7,Fees feel unpredictable and expensive; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0446,Saver,4,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0447,Saver,0,9,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0448,Investor,0,7,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0449,Saver,4,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0450,Everyday,4,6,The features cover what I need.,0,0,0,0,1,0,0
+B0451,Saver,5,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0452,Saver,4,7,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B0453,Saver,1,8,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0454,Saver,4,5,I am not fully confident my money is safe; Important features are missing.,0,0,0,0,1,1,0
+B0455,Saver,0,10,I trust the app with my money; The information is confusing.,0,0,0,0,0,1,1
+B0456,Everyday,6,9,The features cover what I need.,0,0,0,0,1,0,0
+B0457,Saver,5,7,The app works reliably.,0,1,0,0,0,0,0
+B0458,Everyday,4,4,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0459,Everyday,4,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0460,Everyday,3,5,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B0461,Everyday,5,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0462,Saver,1,10,I trust the app with my money; Tasks take longer than expected.,0,0,0,1,0,1,0
+B0463,Everyday,2,7,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0464,Everyday,3,9,I trust the app with my money; Fees are clear and reasonable.,1,0,0,0,0,1,0
+B0465,Saver,0,9,The information is easy to understand; Everything feels quick.,0,0,0,1,0,0,1
+B0466,Saver,4,10,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0467,Saver,4,8,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0468,Saver,3,9,The features cover what I need.,0,0,0,0,1,0,0
+B0469,Everyday,1,6,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0470,Investor,1,5,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0471,Saver,1,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0472,Saver,3,5,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B0473,Everyday,0,6,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0474,Investor,1,5,The information is confusing; Important features are missing.,0,0,0,0,1,0,1
+B0475,Investor,5,6,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B0476,Investor,3,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0477,Saver,5,5,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0478,Everyday,3,2,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0479,Saver,4,6,Tasks take longer than expected; The information is confusing.,0,0,0,1,0,0,1
+B0480,Everyday,1,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0481,Everyday,4,7,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B0482,Everyday,5,6,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0483,Saver,2,7,I trust the app with my money.,0,0,0,0,0,1,0
+B0484,Saver,0,8,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0485,Saver,3,7,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0486,Saver,3,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0487,Everyday,4,7,The features cover what I need.,0,0,0,0,1,0,0
+B0488,Everyday,2,6,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0489,Saver,4,9,The features cover what I need.,0,0,0,0,1,0,0
+B0490,Saver,0,9,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0491,Everyday,1,7,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0492,Saver,3,7,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B0493,Everyday,6,9,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B0494,Everyday,2,9,The app works reliably.,0,1,0,0,0,0,0
+B0495,Everyday,5,8,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0496,Saver,2,9,The features cover what I need.,0,0,0,0,1,0,0
+B0497,Everyday,4,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0498,Saver,4,6,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B0499,Everyday,0,8,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0500,Everyday,0,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0501,Everyday,2,10,Fees feel unpredictable and expensive; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0502,Everyday,3,6,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0503,Saver,2,10,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0504,Everyday,3,6,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0505,Saver,2,4,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0506,Investor,1,7,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0507,Saver,3,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0508,Everyday,1,4,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0509,Everyday,5,9,The features cover what I need; I trust the app with my money.,0,0,0,0,1,1,0
+B0510,Everyday,5,3,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0511,Everyday,0,5,The app works reliably.,0,1,0,0,0,0,0
+B0512,Saver,2,3,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0513,Saver,1,6,The information is easy to understand.,0,0,0,0,0,0,1
+B0514,Everyday,2,9,Important features are missing.,0,0,0,0,1,0,0
+B0515,Investor,3,6,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0516,Everyday,2,3,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0517,Saver,2,6,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0518,Everyday,3,6,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B0519,Everyday,0,7,It is hard to find what I need; Tasks take longer than expected.,0,0,1,1,0,0,0
+B0520,Everyday,2,9,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0521,Everyday,2,5,I can find what I need easily.,0,0,1,0,0,0,0
+B0522,Saver,5,6,Everything feels quick.,0,0,0,1,0,0,0
+B0523,Everyday,2,7,Everything feels quick.,0,0,0,1,0,0,0
+B0524,Everyday,1,10,The features cover what I need; I trust the app with my money.,0,0,0,0,1,1,0
+B0525,Everyday,1,7,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0526,Everyday,3,10,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0527,Everyday,3,9,I trust the app with my money.,0,0,0,0,0,1,0
+B0528,Saver,0,10,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0529,Everyday,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0530,Investor,2,10,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0531,Everyday,0,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0532,Everyday,4,4,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0533,Saver,5,10,The app works reliably; Important features are missing.,0,1,0,0,1,0,0
+B0534,Everyday,6,7,The features cover what I need.,0,0,0,0,1,0,0
+B0535,Everyday,0,6,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0536,Saver,1,6,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0537,Everyday,4,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0538,Everyday,1,9,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0539,Investor,2,8,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B0540,Everyday,2,6,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B0541,Saver,1,6,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0542,Everyday,3,5,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B0543,Saver,4,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0544,Everyday,2,5,The app works reliably.,0,1,0,0,0,0,0
+B0545,Everyday,3,10,The features cover what I need.,0,0,0,0,1,0,0
+B0546,Investor,4,7,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0547,Everyday,4,8,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0548,Everyday,2,4,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0549,Saver,2,7,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B0550,Everyday,5,5,Important features are missing.,0,0,0,0,1,0,0
+B0551,Saver,0,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0552,Saver,5,9,The features cover what I need.,0,0,0,0,1,0,0
+B0553,Saver,1,9,The features cover what I need.,0,0,0,0,1,0,0
+B0554,Everyday,4,8,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0555,Saver,2,10,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0556,Saver,6,10,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B0557,Investor,0,8,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0558,Everyday,0,8,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0559,Investor,2,5,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0560,Everyday,4,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0561,Saver,2,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0562,Saver,4,9,The app works reliably.,0,1,0,0,0,0,0
+B0563,Everyday,2,8,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B0564,Everyday,4,9,The app works reliably.,0,1,0,0,0,0,0
+B0565,Everyday,6,5,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B0566,Everyday,3,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0567,Saver,3,7,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B0568,Everyday,2,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0569,Investor,3,9,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B0570,Saver,3,8,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B0571,Everyday,3,5,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B0572,Saver,5,3,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0573,Everyday,0,5,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B0574,Saver,3,8,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0575,Everyday,6,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0576,Everyday,0,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0577,Investor,4,10,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B0578,Everyday,2,8,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0579,Saver,1,8,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B0580,Everyday,2,6,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0581,Everyday,2,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0582,Everyday,2,8,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0583,Investor,0,8,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0584,Saver,4,7,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0585,Saver,3,9,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0586,Saver,5,8,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0587,Investor,4,9,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B0588,Everyday,2,8,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B0589,Everyday,4,8,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0590,Everyday,5,6,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B0591,Investor,6,8,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0592,Investor,3,10,The features cover what I need.,0,0,0,0,1,0,0
+B0593,Investor,0,10,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0594,Everyday,6,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0595,Everyday,5,4,The information is confusing; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0596,Everyday,2,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0597,Investor,6,5,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0598,Saver,3,4,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0599,Saver,1,8,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0600,Everyday,6,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0601,Everyday,2,9,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0602,Investor,6,8,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B0603,Everyday,1,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0604,Everyday,4,10,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B0605,Investor,6,7,The information is easy to understand; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0606,Saver,4,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0607,Everyday,3,8,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B0608,Everyday,1,5,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0609,Investor,2,7,Important features are missing; Tasks take longer than expected.,0,0,0,1,1,0,0
+B0610,Everyday,4,6,The app works reliably.,0,1,0,0,0,0,0
+B0611,Investor,3,3,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0612,Everyday,6,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0613,Everyday,4,7,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0614,Saver,5,5,Everything feels quick.,0,0,0,1,0,0,0
+B0615,Investor,3,4,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0616,Everyday,0,7,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0617,Investor,4,6,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0618,Everyday,3,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0619,Investor,0,8,The features cover what I need.,0,0,0,0,1,0,0
+B0620,Everyday,3,5,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0621,Saver,1,8,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B0622,Everyday,3,5,I can find what I need easily.,0,0,1,0,0,0,0
+B0623,Saver,3,3,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0624,Saver,2,8,Fees feel unpredictable and expensive; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0625,Everyday,3,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0626,Everyday,4,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0627,Saver,2,9,The information is easy to understand.,0,0,0,0,0,0,1
+B0628,Everyday,5,3,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B0629,Investor,5,9,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B0630,Everyday,2,9,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0631,Investor,5,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0632,Saver,3,7,The information is easy to understand; The features cover what I need.,0,0,0,0,1,0,1
+B0633,Saver,6,5,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0634,Everyday,3,5,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0635,Investor,3,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0636,Investor,2,9,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0637,Saver,2,7,Everything feels quick; I can find what I need easily.,0,0,1,1,0,0,0
+B0638,Investor,1,5,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0639,Investor,3,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0640,Saver,2,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0641,Investor,2,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0642,Saver,2,8,I trust the app with my money; It is hard to find what I need.,0,0,1,0,0,1,0
+B0643,Saver,1,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0644,Saver,0,5,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B0645,Saver,4,6,Tasks take longer than expected; The app works reliably.,0,1,0,1,0,0,0
+B0646,Everyday,5,9,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B0647,Everyday,4,7,Everything feels quick.,0,0,0,1,0,0,0
+B0648,Everyday,1,9,Everything feels quick.,0,0,0,1,0,0,0
+B0649,Everyday,1,10,Everything feels quick.,0,0,0,1,0,0,0
+B0650,Saver,3,4,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0651,Investor,4,9,The features cover what I need.,0,0,0,0,1,0,0
+B0652,Everyday,3,6,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B0653,Investor,4,5,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0654,Investor,5,7,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0655,Saver,2,9,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0656,Everyday,2,8,The information is confusing; Fees are clear and reasonable.,1,0,0,0,0,0,1
+B0657,Everyday,1,6,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0658,Everyday,5,10,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0659,Saver,6,9,The app works reliably.,0,1,0,0,0,0,0
+B0660,Saver,3,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0661,Everyday,3,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0662,Saver,2,8,The features cover what I need.,0,0,0,0,1,0,0
+B0663,Investor,6,8,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0664,Everyday,3,10,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0665,Saver,3,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0666,Saver,5,9,The app works reliably.,0,1,0,0,0,0,0
+B0667,Everyday,5,5,Important features are missing.,0,0,0,0,1,0,0
+B0668,Saver,4,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0669,Saver,3,8,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0670,Everyday,2,3,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0671,Investor,4,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0672,Everyday,5,6,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0673,Saver,2,5,Important features are missing; The information is confusing.,0,0,0,0,1,0,1
+B0674,Saver,6,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0675,Everyday,5,10,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B0676,Investor,5,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0677,Saver,3,5,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0678,Everyday,4,5,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0679,Everyday,1,4,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0680,Investor,0,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0681,Investor,4,8,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0682,Everyday,4,10,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0683,Saver,3,4,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B0684,Saver,1,8,The information is easy to understand; Everything feels quick.,0,0,0,1,0,0,1
+B0685,Everyday,0,5,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0686,Everyday,3,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0687,Saver,6,10,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B0688,Saver,1,10,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0689,Saver,2,10,The app works reliably.,0,1,0,0,0,0,0
+B0690,Everyday,5,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0691,Everyday,3,8,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B0692,Investor,5,10,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0693,Saver,2,9,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0694,Saver,5,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0695,Saver,1,7,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0696,Saver,3,6,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0697,Saver,4,9,The features cover what I need.,0,0,0,0,1,0,0
+B0698,Investor,4,7,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B0699,Everyday,1,8,The information is easy to understand; I trust the app with my money.,0,0,0,0,0,1,1
+B0700,Saver,2,8,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0701,Saver,2,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0702,Saver,5,10,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0703,Everyday,2,7,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0704,Everyday,2,9,The features cover what I need.,0,0,0,0,1,0,0
+B0705,Saver,4,10,Everything feels quick.,0,0,0,1,0,0,0
+B0706,Saver,2,8,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0707,Saver,2,6,Everything feels quick.,0,0,0,1,0,0,0
+B0708,Investor,2,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0709,Investor,4,8,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0710,Everyday,3,7,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0711,Saver,4,7,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0712,Investor,5,7,Important features are missing.,0,0,0,0,1,0,0
+B0713,Everyday,4,5,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B0714,Investor,0,4,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0715,Everyday,2,7,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B0716,Everyday,3,7,Everything feels quick; The features cover what I need.,0,0,0,1,1,0,0
+B0717,Saver,3,6,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B0718,Everyday,0,5,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0719,Everyday,3,5,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0720,Everyday,2,9,The app works reliably.,0,1,0,0,0,0,0
+B0721,Everyday,3,9,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B0722,Everyday,4,8,Fees are clear and reasonable; The information is confusing.,1,0,0,0,0,0,1
+B0723,Everyday,3,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0724,Everyday,3,9,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B0725,Saver,0,7,I trust the app with my money.,0,0,0,0,0,1,0
+B0726,Saver,6,9,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0727,Everyday,2,8,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0728,Saver,0,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0729,Everyday,5,8,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0730,Everyday,1,8,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0731,Everyday,2,7,Everything feels quick.,0,0,0,1,0,0,0
+B0732,Everyday,0,10,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0733,Everyday,1,7,Fees feel unpredictable and expensive; I am not fully confident my money is safe.,1,0,0,0,0,1,0
+B0734,Investor,4,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0735,Everyday,1,5,It is hard to find what I need.,0,0,1,0,0,0,0
+B0736,Saver,1,7,I am not fully confident my money is safe; Tasks take longer than expected.,0,0,0,1,0,1,0
+B0737,Saver,3,2,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0738,Everyday,5,8,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B0739,Saver,2,7,Everything feels quick.,0,0,0,1,0,0,0
+B0740,Everyday,0,10,The information is easy to understand.,0,0,0,0,0,0,1
+B0741,Saver,4,3,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0742,Everyday,6,8,It is hard to find what I need; The information is confusing.,0,0,1,0,0,0,1
+B0743,Saver,2,10,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0744,Everyday,3,8,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B0745,Saver,2,2,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0746,Saver,2,10,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B0747,Everyday,5,6,The information is confusing.,0,0,0,0,0,0,1
+B0748,Saver,1,8,The information is easy to understand.,0,0,0,0,0,0,1
+B0749,Saver,2,6,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B0750,Saver,5,7,Important features are missing; The information is confusing.,0,0,0,0,1,0,1
+B0751,Everyday,6,5,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B0752,Investor,5,5,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0753,Everyday,3,6,Fees feel unpredictable and expensive; Important features are missing.,1,0,0,0,1,0,0
+B0754,Everyday,2,10,I can find what I need easily; I trust the app with my money.,0,0,1,0,0,1,0
+B0755,Saver,0,8,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0756,Everyday,5,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0757,Saver,3,10,The app works reliably.,0,1,0,0,0,0,0
+B0758,Everyday,1,8,The app works reliably.,0,1,0,0,0,0,0
+B0759,Investor,1,6,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B0760,Saver,1,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B0761,Everyday,1,9,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B0762,Investor,2,8,Important features are missing.,0,0,0,0,1,0,0
+B0763,Investor,3,9,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B0764,Everyday,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0765,Saver,2,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0766,Everyday,3,7,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B0767,Everyday,4,4,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0768,Everyday,5,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0769,Everyday,2,10,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0770,Investor,2,9,The information is easy to understand; Everything feels quick.,0,0,0,1,0,0,1
+B0771,Saver,3,6,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0772,Everyday,6,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0773,Investor,1,8,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0774,Saver,5,10,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0775,Saver,4,7,The information is confusing; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0776,Everyday,3,7,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B0777,Saver,3,8,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0778,Saver,3,5,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B0779,Everyday,5,10,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0780,Everyday,4,8,The features cover what I need; The information is confusing.,0,0,0,0,1,0,1
+B0781,Saver,2,8,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B0782,Everyday,4,10,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B0783,Everyday,0,5,The information is easy to understand; Everything feels quick.,0,0,0,1,0,0,1
+B0784,Saver,1,3,It is hard to find what I need; The information is confusing.,0,0,1,0,0,0,1
+B0785,Everyday,5,10,The app works reliably.,0,1,0,0,0,0,0
+B0786,Investor,1,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0787,Saver,2,7,The information is easy to understand; I trust the app with my money.,0,0,0,0,0,1,1
+B0788,Everyday,2,8,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0789,Saver,3,7,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B0790,Everyday,2,8,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B0791,Saver,0,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0792,Everyday,2,6,Everything feels quick.,0,0,0,1,0,0,0
+B0793,Saver,5,9,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B0794,Saver,0,4,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B0795,Saver,1,7,Everything feels quick.,0,0,0,1,0,0,0
+B0796,Saver,4,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0797,Saver,6,10,The information is confusing; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0798,Saver,2,8,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0799,Saver,3,6,Tasks take longer than expected; I trust the app with my money.,0,0,0,1,0,1,0
+B0800,Saver,5,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0801,Investor,3,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B0802,Everyday,3,6,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0803,Everyday,4,7,Important features are missing.,0,0,0,0,1,0,0
+B0804,Saver,4,5,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0805,Saver,2,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0806,Investor,3,5,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0807,Investor,2,9,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0808,Everyday,4,6,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0809,Saver,5,6,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0810,Investor,3,7,The information is easy to understand.,0,0,0,0,0,0,1
+B0811,Saver,2,6,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0812,Saver,3,7,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B0813,Everyday,3,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0814,Investor,0,5,Fees feel unpredictable and expensive; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0815,Everyday,2,7,I am not fully confident my money is safe; I can find what I need easily.,0,0,1,0,0,1,0
+B0816,Everyday,0,7,I am not fully confident my money is safe; I can find what I need easily.,0,0,1,0,0,1,0
+B0817,Saver,4,7,The app works reliably.,0,1,0,0,0,0,0
+B0818,Saver,3,6,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0819,Everyday,6,7,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B0820,Saver,5,10,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B0821,Investor,0,7,Important features are missing; Tasks take longer than expected.,0,0,0,1,1,0,0
+B0822,Everyday,4,7,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0823,Everyday,1,10,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0824,Everyday,6,9,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B0825,Everyday,5,5,The information is easy to understand.,0,0,0,0,0,0,1
+B0826,Everyday,3,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B0827,Everyday,1,8,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B0828,Investor,5,7,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0829,Everyday,5,8,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B0830,Saver,3,10,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B0831,Everyday,1,10,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0832,Saver,0,5,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B0833,Everyday,3,7,The information is confusing; It is hard to find what I need.,0,0,1,0,0,0,1
+B0834,Saver,1,8,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0835,Saver,2,7,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0836,Everyday,3,5,Tasks take longer than expected; The app works reliably.,0,1,0,1,0,0,0
+B0837,Everyday,4,7,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0838,Investor,2,10,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B0839,Everyday,4,10,The features cover what I need.,0,0,0,0,1,0,0
+B0840,Saver,3,8,The information is confusing.,0,0,0,0,0,0,1
+B0841,Everyday,4,10,The information is easy to understand.,0,0,0,0,0,0,1
+B0842,Investor,5,8,Tasks take longer than expected; The features cover what I need.,0,0,0,1,1,0,0
+B0843,Everyday,0,6,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B0844,Investor,3,7,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B0845,Everyday,0,7,I trust the app with my money.,0,0,0,0,0,1,0
+B0846,Saver,6,7,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B0847,Investor,5,10,The app works reliably.,0,1,0,0,0,0,0
+B0848,Everyday,5,6,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0849,Everyday,4,7,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0850,Saver,0,7,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B0851,Saver,5,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0852,Everyday,2,9,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0853,Everyday,1,10,Everything feels quick.,0,0,0,1,0,0,0
+B0854,Investor,0,5,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0855,Saver,4,6,The information is easy to understand.,0,0,0,0,0,0,1
+B0856,Saver,4,9,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B0857,Saver,6,10,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0858,Everyday,5,10,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B0859,Everyday,0,10,Fees are clear and reasonable; The app works reliably.,1,1,0,0,0,0,0
+B0860,Everyday,6,9,I am not fully confident my money is safe; Fees are clear and reasonable.,1,0,0,0,0,1,0
+B0861,Saver,2,7,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0862,Everyday,6,7,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B0863,Saver,0,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0864,Saver,5,6,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0865,Everyday,6,10,Everything feels quick.,0,0,0,1,0,0,0
+B0866,Saver,4,10,I am not fully confident my money is safe; The app sometimes freezes or fails.,0,1,0,0,0,1,0
+B0867,Investor,3,10,I trust the app with my money.,0,0,0,0,0,1,0
+B0868,Investor,2,5,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0869,Saver,2,8,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0870,Everyday,2,10,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0871,Everyday,3,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0872,Everyday,6,8,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0873,Everyday,1,6,Fees feel unpredictable and expensive; I am not fully confident my money is safe.,1,0,0,0,0,1,0
+B0874,Everyday,3,7,The information is easy to understand; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0875,Saver,4,8,The features cover what I need.,0,0,0,0,1,0,0
+B0876,Saver,0,8,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B0877,Investor,3,6,Everything feels quick.,0,0,0,1,0,0,0
+B0878,Investor,3,6,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0879,Everyday,3,10,I can find what I need easily; I trust the app with my money.,0,0,1,0,0,1,0
+B0880,Saver,4,8,I trust the app with my money.,0,0,0,0,0,1,0
+B0881,Saver,0,7,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0882,Saver,4,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0883,Everyday,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B0884,Everyday,3,5,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B0885,Saver,0,5,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B0886,Everyday,6,6,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B0887,Saver,3,8,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B0888,Investor,2,9,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B0889,Saver,5,10,Everything feels quick.,0,0,0,1,0,0,0
+B0890,Everyday,1,7,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0891,Everyday,3,9,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0892,Investor,5,7,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0893,Everyday,1,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0894,Everyday,3,6,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0895,Everyday,6,8,The features cover what I need.,0,0,0,0,1,0,0
+B0896,Saver,0,5,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B0897,Saver,2,10,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B0898,Everyday,0,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0899,Everyday,3,10,The information is easy to understand; Tasks take longer than expected.,0,0,0,1,0,0,1
+B0900,Everyday,0,10,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0901,Everyday,2,5,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0902,Everyday,4,8,The app works reliably.,0,1,0,0,0,0,0
+B0903,Saver,3,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0904,Saver,3,4,Important features are missing; The information is confusing.,0,0,0,0,1,0,1
+B0905,Everyday,1,5,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0906,Everyday,1,5,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B0907,Everyday,4,9,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B0908,Everyday,3,5,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0909,Investor,1,6,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0910,Everyday,0,10,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B0911,Everyday,4,9,I can find what I need easily.,0,0,1,0,0,0,0
+B0912,Saver,3,10,Everything feels quick.,0,0,0,1,0,0,0
+B0913,Saver,3,4,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B0914,Saver,1,9,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0915,Saver,2,7,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0916,Saver,1,3,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0917,Everyday,0,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0918,Everyday,2,7,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B0919,Everyday,6,10,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B0920,Everyday,2,7,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0921,Saver,3,8,The information is easy to understand; Everything feels quick.,0,0,0,1,0,0,1
+B0922,Saver,2,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0923,Everyday,3,8,The information is easy to understand.,0,0,0,0,0,0,1
+B0924,Everyday,5,6,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B0925,Everyday,5,5,The features cover what I need.,0,0,0,0,1,0,0
+B0926,Saver,3,7,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B0927,Everyday,3,6,The app works reliably.,0,1,0,0,0,0,0
+B0928,Investor,3,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0929,Saver,0,8,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0930,Investor,2,6,The app works reliably.,0,1,0,0,0,0,0
+B0931,Everyday,1,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B0932,Saver,0,8,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0933,Everyday,6,7,The information is confusing.,0,0,0,0,0,0,1
+B0934,Investor,2,8,The features cover what I need.,0,0,0,0,1,0,0
+B0935,Investor,0,9,The information is easy to understand.,0,0,0,0,0,0,1
+B0936,Saver,1,9,Tasks take longer than expected; The information is easy to understand.,0,0,0,1,0,0,1
+B0937,Everyday,4,8,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B0938,Saver,3,5,Tasks take longer than expected; It is hard to find what I need.,0,0,1,1,0,0,0
+B0939,Investor,2,7,Fees are clear and reasonable; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0940,Investor,2,4,It is hard to find what I need.,0,0,1,0,0,0,0
+B0941,Saver,0,10,I am not fully confident my money is safe; Everything feels quick.,0,0,0,1,0,1,0
+B0942,Everyday,4,9,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B0943,Everyday,4,10,I trust the app with my money; It is hard to find what I need.,0,0,1,0,0,1,0
+B0944,Saver,1,10,The app works reliably.,0,1,0,0,0,0,0
+B0945,Everyday,0,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B0946,Saver,2,9,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B0947,Everyday,3,10,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B0948,Investor,5,10,I can find what I need easily.,0,0,1,0,0,0,0
+B0949,Everyday,4,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0950,Everyday,4,5,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B0951,Saver,6,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B0952,Saver,6,5,It is hard to find what I need.,0,0,1,0,0,0,0
+B0953,Everyday,1,7,I can find what I need easily.,0,0,1,0,0,0,0
+B0954,Saver,6,4,It is hard to find what I need.,0,0,1,0,0,0,0
+B0955,Everyday,1,6,Important features are missing; Fees are clear and reasonable.,1,0,0,0,1,0,0
+B0956,Investor,5,6,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0957,Everyday,6,8,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B0958,Everyday,0,6,I can find what I need easily.,0,0,1,0,0,0,0
+B0959,Everyday,3,10,The app works reliably.,0,1,0,0,0,0,0
+B0960,Everyday,3,10,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0961,Investor,4,9,Everything feels quick.,0,0,0,1,0,0,0
+B0962,Everyday,5,5,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B0963,Saver,3,10,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B0964,Everyday,3,6,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B0965,Saver,5,7,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B0966,Everyday,4,5,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B0967,Saver,0,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B0968,Everyday,4,9,The information is easy to understand; It is hard to find what I need.,0,0,1,0,0,0,1
+B0969,Everyday,6,8,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B0970,Saver,4,8,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B0971,Saver,5,7,Important features are missing.,0,0,0,0,1,0,0
+B0972,Everyday,3,7,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B0973,Everyday,5,7,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B0974,Investor,0,5,Tasks take longer than expected.,0,0,0,1,0,0,0
+B0975,Saver,6,10,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B0976,Everyday,4,9,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B0977,Saver,5,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0978,Everyday,2,10,The information is easy to understand.,0,0,0,0,0,0,1
+B0979,Saver,1,7,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B0980,Everyday,6,7,Fees are clear and reasonable; Tasks take longer than expected.,1,0,0,1,0,0,0
+B0981,Saver,3,5,I trust the app with my money.,0,0,0,0,0,1,0
+B0982,Everyday,5,4,I am not fully confident my money is safe; Important features are missing.,0,0,0,0,1,1,0
+B0983,Everyday,1,8,Important features are missing; The information is confusing.,0,0,0,0,1,0,1
+B0984,Everyday,6,9,The information is easy to understand; I can find what I need easily.,0,0,1,0,0,0,1
+B0985,Investor,6,7,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B0986,Everyday,4,9,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B0987,Saver,1,10,The features cover what I need.,0,0,0,0,1,0,0
+B0988,Saver,0,8,Fees are clear and reasonable; The information is easy to understand.,1,0,0,0,0,0,1
+B0989,Everyday,1,8,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0990,Saver,5,4,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B0991,Everyday,6,5,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B0992,Everyday,3,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B0993,Everyday,6,7,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B0994,Everyday,4,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B0995,Investor,0,3,I am not fully confident my money is safe; Everything feels quick.,0,0,0,1,0,1,0
+B0996,Saver,2,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B0997,Saver,5,7,Everything feels quick.,0,0,0,1,0,0,0
+B0998,Everyday,3,9,The features cover what I need; Tasks take longer than expected.,0,0,0,1,1,0,0
+B0999,Saver,3,7,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B1000,Investor,4,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1001,Everyday,2,4,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1002,Everyday,1,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1003,Saver,6,8,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B1004,Investor,2,5,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B1005,Everyday,2,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B1006,Investor,6,10,Everything feels quick; I can find what I need easily.,0,0,1,1,0,0,0
+B1007,Everyday,2,4,Fees feel unpredictable and expensive; Important features are missing.,1,0,0,0,1,0,0
+B1008,Saver,1,7,I can find what I need easily.,0,0,1,0,0,0,0
+B1009,Investor,3,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1010,Saver,6,9,It is hard to find what I need; Fees are clear and reasonable.,1,0,1,0,0,0,0
+B1011,Everyday,1,4,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B1012,Everyday,5,9,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1013,Investor,1,9,The features cover what I need.,0,0,0,0,1,0,0
+B1014,Everyday,0,5,It is hard to find what I need.,0,0,1,0,0,0,0
+B1015,Investor,3,1,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1016,Saver,3,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1017,Everyday,3,7,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1018,Investor,4,10,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B1019,Saver,1,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1020,Investor,2,7,I am not fully confident my money is safe; Important features are missing.,0,0,0,0,1,1,0
+B1021,Saver,4,9,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1022,Saver,5,6,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B1023,Everyday,3,10,The information is easy to understand.,0,0,0,0,0,0,1
+B1024,Saver,2,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1025,Everyday,5,6,Everything feels quick.,0,0,0,1,0,0,0
+B1026,Saver,1,8,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B1027,Everyday,4,8,The information is confusing; Important features are missing.,0,0,0,0,1,0,1
+B1028,Saver,4,10,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B1029,Saver,3,9,I trust the app with my money.,0,0,0,0,0,1,0
+B1030,Everyday,1,9,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1031,Saver,6,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B1032,Saver,2,8,The features cover what I need.,0,0,0,0,1,0,0
+B1033,Investor,3,3,It is hard to find what I need; Fees are clear and reasonable.,1,0,1,0,0,0,0
+B1034,Saver,2,7,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B1035,Saver,4,6,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B1036,Saver,3,4,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B1037,Saver,1,10,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B1038,Everyday,6,6,It is hard to find what I need; Fees are clear and reasonable.,1,0,1,0,0,0,0
+B1039,Everyday,5,6,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1040,Investor,2,7,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B1041,Saver,6,7,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1042,Saver,3,8,I trust the app with my money.,0,0,0,0,0,1,0
+B1043,Everyday,3,9,It is hard to find what I need; Fees are clear and reasonable.,1,0,1,0,0,0,0
+B1044,Investor,6,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1045,Everyday,3,7,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1046,Everyday,4,9,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B1047,Everyday,1,9,The features cover what I need.,0,0,0,0,1,0,0
+B1048,Everyday,5,7,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B1049,Everyday,2,7,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B1050,Saver,5,7,Everything feels quick.,0,0,0,1,0,0,0
+B1051,Everyday,2,9,The app works reliably; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B1052,Everyday,4,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B1053,Saver,4,7,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1054,Saver,3,7,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1055,Investor,4,10,The information is easy to understand.,0,0,0,0,0,0,1
+B1056,Investor,4,8,The app works reliably.,0,1,0,0,0,0,0
+B1057,Saver,3,4,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1058,Everyday,1,7,Everything feels quick.,0,0,0,1,0,0,0
+B1059,Saver,2,10,The app works reliably.,0,1,0,0,0,0,0
+B1060,Saver,3,9,Everything feels quick.,0,0,0,1,0,0,0
+B1061,Everyday,5,3,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1062,Everyday,4,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1063,Investor,6,8,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B1064,Everyday,3,9,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1065,Everyday,2,10,I am not fully confident my money is safe; Fees are clear and reasonable.,1,0,0,0,0,1,0
+B1066,Everyday,2,9,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1067,Saver,2,9,Everything feels quick.,0,0,0,1,0,0,0
+B1068,Everyday,3,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1069,Saver,3,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1070,Everyday,5,10,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B1071,Everyday,0,10,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B1072,Saver,0,10,Fees are clear and reasonable; The app works reliably.,1,1,0,0,0,0,0
+B1073,Everyday,4,4,The information is easy to understand.,0,0,0,0,0,0,1
+B1074,Investor,2,6,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B1075,Investor,4,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1076,Investor,1,7,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B1077,Everyday,3,8,The app works reliably.,0,1,0,0,0,0,0
+B1078,Everyday,1,8,I trust the app with my money.,0,0,0,0,0,1,0
+B1079,Saver,4,9,The information is easy to understand.,0,0,0,0,0,0,1
+B1080,Everyday,1,7,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1081,Saver,4,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1082,Everyday,1,10,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B1083,Everyday,0,9,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B1084,Saver,2,7,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B1085,Saver,3,9,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1086,Everyday,1,9,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1087,Everyday,0,6,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1088,Investor,2,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B1089,Everyday,6,9,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B1090,Investor,3,9,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B1091,Everyday,0,8,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B1092,Saver,0,8,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1093,Investor,3,8,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B1094,Saver,5,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1095,Saver,3,6,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1096,Saver,0,10,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1097,Saver,5,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1098,Everyday,3,8,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B1099,Saver,6,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1100,Saver,1,5,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1101,Everyday,3,9,The app works reliably.,0,1,0,0,0,0,0
+B1102,Investor,2,7,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B1103,Investor,3,6,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1104,Saver,2,10,The features cover what I need.,0,0,0,0,1,0,0
+B1105,Everyday,4,8,Everything feels quick.,0,0,0,1,0,0,0
+B1106,Saver,5,9,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B1107,Everyday,4,8,I am not fully confident my money is safe; It is hard to find what I need.,0,0,1,0,0,1,0
+B1108,Saver,3,8,I trust the app with my money.,0,0,0,0,0,1,0
+B1109,Investor,4,4,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B1110,Everyday,1,9,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1111,Saver,4,7,I trust the app with my money; Tasks take longer than expected.,0,0,0,1,0,1,0
+B1112,Saver,1,8,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1113,Everyday,2,10,I trust the app with my money; The information is confusing.,0,0,0,0,0,1,1
+B1114,Everyday,3,5,Everything feels quick.,0,0,0,1,0,0,0
+B1115,Everyday,0,6,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B1116,Everyday,5,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1117,Everyday,2,7,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B1118,Saver,4,7,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1119,Saver,2,10,Important features are missing.,0,0,0,0,1,0,0
+B1120,Everyday,3,8,The app works reliably.,0,1,0,0,0,0,0
+B1121,Investor,5,7,I can find what I need easily.,0,0,1,0,0,0,0
+B1122,Investor,5,10,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B1123,Everyday,5,10,It is hard to find what I need; Fees are clear and reasonable.,1,0,1,0,0,0,0
+B1124,Everyday,3,8,Important features are missing.,0,0,0,0,1,0,0
+B1125,Saver,3,10,I can find what I need easily; The app works reliably.,0,1,1,0,0,0,0
+B1126,Investor,5,6,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1127,Everyday,5,9,The app works reliably.,0,1,0,0,0,0,0
+B1128,Everyday,5,8,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1129,Saver,3,7,I trust the app with my money.,0,0,0,0,0,1,0
+B1130,Saver,3,4,It is hard to find what I need.,0,0,1,0,0,0,0
+B1131,Everyday,5,9,I am not fully confident my money is safe; Fees are clear and reasonable.,1,0,0,0,0,1,0
+B1132,Everyday,2,8,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1133,Everyday,3,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B1134,Everyday,3,3,I can find what I need easily.,0,0,1,0,0,0,0
+B1135,Saver,0,4,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B1136,Everyday,1,9,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1137,Saver,1,8,Everything feels quick.,0,0,0,1,0,0,0
+B1138,Saver,4,8,Everything feels quick.,0,0,0,1,0,0,0
+B1139,Everyday,5,9,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1140,Everyday,2,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B1141,Everyday,3,9,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B1142,Everyday,5,7,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B1143,Investor,0,10,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B1144,Everyday,3,5,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1145,Everyday,2,5,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1146,Everyday,4,7,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1147,Investor,1,8,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B1148,Saver,4,7,I trust the app with my money; Tasks take longer than expected.,0,0,0,1,0,1,0
+B1149,Investor,2,5,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B1150,Saver,3,3,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1151,Everyday,2,9,Everything feels quick.,0,0,0,1,0,0,0
+B1152,Everyday,0,5,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B1153,Investor,2,9,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B1154,Everyday,0,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1155,Saver,6,8,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1156,Everyday,0,10,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1157,Everyday,1,8,The app works reliably; Important features are missing.,0,1,0,0,1,0,0
+B1158,Everyday,4,10,The information is easy to understand; I can find what I need easily.,0,0,1,0,0,0,1
+B1159,Saver,2,6,The features cover what I need.,0,0,0,0,1,0,0
+B1160,Everyday,0,10,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1161,Saver,2,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1162,Everyday,5,9,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B1163,Saver,4,8,The information is easy to understand.,0,0,0,0,0,0,1
+B1164,Everyday,2,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1165,Everyday,5,6,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1166,Everyday,2,6,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B1167,Everyday,1,10,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1168,Everyday,1,5,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1169,Saver,4,10,The features cover what I need.,0,0,0,0,1,0,0
+B1170,Saver,2,7,Fees are clear and reasonable; It is hard to find what I need.,1,0,1,0,0,0,0
+B1171,Everyday,5,9,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B1172,Everyday,2,10,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B1173,Saver,4,6,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B1174,Investor,6,5,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B1175,Investor,2,10,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1176,Everyday,0,10,It is hard to find what I need.,0,0,1,0,0,0,0
+B1177,Saver,6,10,The app works reliably.,0,1,0,0,0,0,0
+B1178,Everyday,3,7,The information is confusing; Tasks take longer than expected.,0,0,0,1,0,0,1
+B1179,Saver,1,9,I trust the app with my money.,0,0,0,0,0,1,0
+B1180,Investor,2,6,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B1181,Saver,4,9,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1182,Saver,5,9,The app works reliably; The information is confusing.,0,1,0,0,0,0,1
+B1183,Everyday,2,7,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B1184,Everyday,3,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1185,Saver,3,10,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1186,Everyday,0,5,I am not fully confident my money is safe; Fees are clear and reasonable.,1,0,0,0,0,1,0
+B1187,Everyday,6,7,The features cover what I need.,0,0,0,0,1,0,0
+B1188,Everyday,4,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1189,Everyday,0,8,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B1190,Everyday,4,8,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1191,Everyday,3,6,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1192,Saver,6,10,Everything feels quick.,0,0,0,1,0,0,0
+B1193,Saver,2,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1194,Saver,1,10,The information is easy to understand.,0,0,0,0,0,0,1
+B1195,Investor,0,9,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B1196,Saver,2,10,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B1197,Everyday,2,8,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B1198,Everyday,3,10,The features cover what I need; I trust the app with my money.,0,0,0,0,1,1,0
+B1199,Everyday,3,10,The information is confusing; It is hard to find what I need.,0,0,1,0,0,0,1
+B1200,Everyday,4,6,I trust the app with my money; The information is confusing.,0,0,0,0,0,1,1
+B1201,Saver,3,7,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1202,Saver,1,7,The features cover what I need.,0,0,0,0,1,0,0
+B1203,Investor,2,9,Everything feels quick.,0,0,0,1,0,0,0
+B1204,Saver,0,9,Everything feels quick.,0,0,0,1,0,0,0
+B1205,Everyday,2,9,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B1206,Everyday,5,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1207,Everyday,1,5,It is hard to find what I need.,0,0,1,0,0,0,0
+B1208,Everyday,2,9,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1209,Saver,6,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1210,Saver,4,10,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1211,Investor,3,8,Important features are missing.,0,0,0,0,1,0,0
+B1212,Everyday,1,7,Important features are missing; Tasks take longer than expected.,0,0,0,1,1,0,0
+B1213,Everyday,2,7,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B1214,Everyday,1,7,The features cover what I need.,0,0,0,0,1,0,0
+B1215,Investor,3,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B1216,Saver,3,9,Fees are clear and reasonable; It is hard to find what I need.,1,0,1,0,0,0,0
+B1217,Saver,2,7,Everything feels quick.,0,0,0,1,0,0,0
+B1218,Everyday,2,6,Everything feels quick.,0,0,0,1,0,0,0
+B1219,Everyday,2,6,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B1220,Everyday,5,10,The information is easy to understand.,0,0,0,0,0,0,1
+B1221,Saver,1,6,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B1222,Everyday,6,9,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B1223,Everyday,3,6,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B1224,Saver,3,7,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B1225,Saver,3,5,The app works reliably.,0,1,0,0,0,0,0
+B1226,Everyday,3,3,The information is confusing.,0,0,0,0,0,0,1
+B1227,Saver,4,7,I am not fully confident my money is safe; The information is confusing.,0,0,0,0,0,1,1
+B1228,Saver,0,2,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B1229,Investor,4,5,It is hard to find what I need.,0,0,1,0,0,0,0
+B1230,Investor,0,10,I can find what I need easily; I trust the app with my money.,0,0,1,0,0,1,0
+B1231,Everyday,3,10,Everything feels quick; The information is easy to understand.,0,0,0,1,0,0,1
+B1232,Investor,0,8,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1233,Investor,3,8,The features cover what I need.,0,0,0,0,1,0,0
+B1234,Everyday,6,10,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1235,Investor,3,5,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1236,Everyday,2,7,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B1237,Saver,6,6,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1238,Everyday,6,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1239,Saver,3,10,The app works reliably; I trust the app with my money.,0,1,0,0,0,1,0
+B1240,Everyday,3,10,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1241,Everyday,2,9,It is hard to find what I need.,0,0,1,0,0,0,0
+B1242,Everyday,2,4,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B1243,Investor,6,10,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B1244,Everyday,4,5,The information is confusing.,0,0,0,0,0,0,1
+B1245,Investor,1,8,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1246,Everyday,3,8,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1247,Investor,2,5,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B1248,Everyday,3,8,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1249,Saver,6,9,The app sometimes freezes or fails; The information is confusing.,0,1,0,0,0,0,1
+B1250,Everyday,2,9,It is hard to find what I need.,0,0,1,0,0,0,0
+B1251,Everyday,2,3,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1252,Everyday,0,4,The app sometimes freezes or fails; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1253,Saver,3,7,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B1254,Everyday,0,7,The features cover what I need.,0,0,0,0,1,0,0
+B1255,Everyday,1,10,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B1256,Saver,2,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1257,Everyday,3,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1258,Everyday,3,9,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1259,Everyday,4,5,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B1260,Everyday,1,10,The features cover what I need.,0,0,0,0,1,0,0
+B1261,Everyday,6,9,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1262,Saver,2,10,Important features are missing; It is hard to find what I need.,0,0,1,0,1,0,0
+B1263,Saver,5,7,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1264,Saver,3,10,The information is easy to understand; I can find what I need easily.,0,0,1,0,0,0,1
+B1265,Investor,4,10,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1266,Investor,4,6,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B1267,Everyday,1,8,The app works reliably.,0,1,0,0,0,0,0
+B1268,Everyday,0,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B1269,Saver,5,9,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B1270,Investor,2,9,The app works reliably.,0,1,0,0,0,0,0
+B1271,Everyday,5,9,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1272,Saver,2,7,Fees are clear and reasonable; The features cover what I need.,1,0,0,0,1,0,0
+B1273,Everyday,3,6,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B1274,Everyday,2,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1275,Investor,4,10,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B1276,Investor,3,10,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B1277,Saver,6,10,Fees are clear and reasonable; Tasks take longer than expected.,1,0,0,1,0,0,0
+B1278,Everyday,1,7,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B1279,Saver,4,10,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B1280,Investor,4,5,Everything feels quick.,0,0,0,1,0,0,0
+B1281,Everyday,0,10,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1282,Everyday,3,9,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1283,Everyday,0,9,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1284,Everyday,2,6,Everything feels quick.,0,0,0,1,0,0,0
+B1285,Saver,4,7,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B1286,Saver,4,4,It is hard to find what I need.,0,0,1,0,0,0,0
+B1287,Everyday,4,7,Everything feels quick.,0,0,0,1,0,0,0
+B1288,Everyday,5,8,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B1289,Saver,6,8,The information is confusing; I can find what I need easily.,0,0,1,0,0,0,1
+B1290,Saver,3,7,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B1291,Saver,2,8,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1292,Saver,5,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1293,Investor,2,9,The app works reliably.,0,1,0,0,0,0,0
+B1294,Everyday,1,8,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1295,Everyday,5,9,The app works reliably.,0,1,0,0,0,0,0
+B1296,Everyday,6,9,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1297,Saver,1,10,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1298,Everyday,6,9,Everything feels quick.,0,0,0,1,0,0,0
+B1299,Everyday,0,10,The information is confusing; Everything feels quick.,0,0,0,1,0,0,1
+B1300,Saver,4,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1301,Everyday,2,5,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1302,Saver,5,8,The app works reliably; Important features are missing.,0,1,0,0,1,0,0
+B1303,Saver,1,10,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1304,Everyday,5,9,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1305,Everyday,0,5,It is hard to find what I need; The information is confusing.,0,0,1,0,0,0,1
+B1306,Saver,3,4,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1307,Everyday,4,9,Everything feels quick; The information is easy to understand.,0,0,0,1,0,0,1
+B1308,Saver,3,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1309,Saver,5,8,The features cover what I need.,0,0,0,0,1,0,0
+B1310,Everyday,3,10,Everything feels quick.,0,0,0,1,0,0,0
+B1311,Everyday,3,9,Tasks take longer than expected; I can find what I need easily.,0,0,1,1,0,0,0
+B1312,Everyday,5,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1313,Saver,3,10,Everything feels quick.,0,0,0,1,0,0,0
+B1314,Everyday,5,6,The information is confusing.,0,0,0,0,0,0,1
+B1315,Saver,2,6,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B1316,Everyday,5,7,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B1317,Everyday,6,9,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B1318,Everyday,5,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B1319,Saver,4,8,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1320,Saver,3,6,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1321,Saver,4,7,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B1322,Saver,1,7,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1323,Saver,5,5,Fees feel unpredictable and expensive; The information is confusing.,1,0,0,0,0,0,1
+B1324,Saver,4,5,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1325,Everyday,3,7,Everything feels quick.,0,0,0,1,0,0,0
+B1326,Saver,4,5,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1327,Saver,4,8,It is hard to find what I need; Tasks take longer than expected.,0,0,1,1,0,0,0
+B1328,Everyday,4,10,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B1329,Everyday,1,8,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1330,Everyday,6,10,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1331,Everyday,4,4,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1332,Saver,4,8,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1333,Saver,4,7,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1334,Investor,2,7,I can find what I need easily; The information is confusing.,0,0,1,0,0,0,1
+B1335,Everyday,2,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1336,Everyday,3,4,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B1337,Saver,4,6,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B1338,Everyday,3,8,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1339,Saver,2,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B1340,Saver,2,10,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B1341,Investor,3,4,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B1342,Everyday,5,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1343,Investor,0,10,I am not fully confident my money is safe; The information is easy to understand.,0,0,0,0,0,1,1
+B1344,Saver,1,8,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1345,Everyday,3,10,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1346,Saver,6,5,The features cover what I need.,0,0,0,0,1,0,0
+B1347,Everyday,1,8,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B1348,Everyday,0,6,Important features are missing.,0,0,0,0,1,0,0
+B1349,Everyday,3,8,The information is easy to understand.,0,0,0,0,0,0,1
+B1350,Saver,5,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1351,Everyday,0,8,The features cover what I need.,0,0,0,0,1,0,0
+B1352,Saver,0,3,Important features are missing.,0,0,0,0,1,0,0
+B1353,Everyday,6,9,I can find what I need easily.,0,0,1,0,0,0,0
+B1354,Everyday,2,8,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B1355,Investor,6,6,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B1356,Investor,5,6,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1357,Investor,5,10,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B1358,Everyday,2,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1359,Saver,4,7,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1360,Everyday,4,8,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1361,Saver,5,9,I trust the app with my money.,0,0,0,0,0,1,0
+B1362,Saver,1,3,Everything feels quick.,0,0,0,1,0,0,0
+B1363,Investor,6,7,Fees are clear and reasonable.,1,0,0,0,0,0,0
+B1364,Saver,2,3,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1365,Saver,4,6,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B1366,Saver,0,4,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1367,Investor,5,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1368,Investor,3,7,I trust the app with my money; The app works reliably.,0,1,0,0,0,1,0
+B1369,Saver,3,6,The app works reliably.,0,1,0,0,0,0,0
+B1370,Everyday,4,10,Important features are missing.,0,0,0,0,1,0,0
+B1371,Investor,3,7,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B1372,Investor,3,8,Fees feel unpredictable and expensive; The features cover what I need.,1,0,0,0,1,0,0
+B1373,Saver,2,5,The app sometimes freezes or fails; Fees are clear and reasonable.,1,1,0,0,0,0,0
+B1374,Saver,2,7,It is hard to find what I need.,0,0,1,0,0,0,0
+B1375,Investor,4,8,The information is easy to understand; The app works reliably.,0,1,0,0,0,0,1
+B1376,Saver,0,5,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B1377,Saver,2,8,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1378,Everyday,2,9,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1379,Saver,4,9,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1380,Investor,0,5,The app works reliably.,0,1,0,0,0,0,0
+B1381,Everyday,5,7,The app works reliably.,0,1,0,0,0,0,0
+B1382,Everyday,2,8,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1383,Everyday,0,9,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1384,Saver,2,8,The information is easy to understand.,0,0,0,0,0,0,1
+B1385,Investor,3,5,I trust the app with my money; Tasks take longer than expected.,0,0,0,1,0,1,0
+B1386,Everyday,0,10,I can find what I need easily; The information is easy to understand.,0,0,1,0,0,0,1
+B1387,Saver,1,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1388,Everyday,0,4,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1389,Everyday,2,10,The app works reliably.,0,1,0,0,0,0,0
+B1390,Saver,4,3,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1391,Everyday,2,6,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1392,Investor,3,10,The features cover what I need.,0,0,0,0,1,0,0
+B1393,Everyday,0,9,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B1394,Saver,5,10,Everything feels quick.,0,0,0,1,0,0,0
+B1395,Everyday,0,6,The information is confusing; Tasks take longer than expected.,0,0,0,1,0,0,1
+B1396,Investor,2,7,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1397,Everyday,2,10,The information is easy to understand.,0,0,0,0,0,0,1
+B1398,Everyday,1,6,Fees feel unpredictable and expensive; The information is easy to understand.,1,0,0,0,0,0,1
+B1399,Everyday,5,8,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B1400,Everyday,3,7,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B1401,Saver,6,8,The information is easy to understand.,0,0,0,0,0,0,1
+B1402,Saver,2,8,The features cover what I need.,0,0,0,0,1,0,0
+B1403,Everyday,2,7,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1404,Everyday,3,9,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B1405,Everyday,6,10,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1406,Saver,4,8,The app works reliably.,0,1,0,0,0,0,0
+B1407,Everyday,0,7,The information is confusing.,0,0,0,0,0,0,1
+B1408,Everyday,1,9,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B1409,Everyday,6,8,Everything feels quick.,0,0,0,1,0,0,0
+B1410,Everyday,2,10,The features cover what I need.,0,0,0,0,1,0,0
+B1411,Everyday,4,2,Important features are missing; Everything feels quick.,0,0,0,1,1,0,0
+B1412,Saver,0,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1413,Saver,4,6,I trust the app with my money.,0,0,0,0,0,1,0
+B1414,Everyday,6,9,I can find what I need easily.,0,0,1,0,0,0,0
+B1415,Everyday,3,5,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1416,Everyday,6,8,The app works reliably.,0,1,0,0,0,0,0
+B1417,Investor,5,5,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1418,Everyday,2,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1419,Saver,3,8,Everything feels quick; The information is easy to understand.,0,0,0,1,0,0,1
+B1420,Saver,2,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B1421,Saver,1,7,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B1422,Saver,0,8,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1423,Everyday,2,8,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1424,Everyday,5,7,I can find what I need easily.,0,0,1,0,0,0,0
+B1425,Saver,3,8,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B1426,Everyday,4,9,Everything feels quick.,0,0,0,1,0,0,0
+B1427,Investor,3,9,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1428,Everyday,4,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B1429,Everyday,0,10,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1430,Investor,6,9,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B1431,Everyday,1,8,Everything feels quick; I can find what I need easily.,0,0,1,1,0,0,0
+B1432,Everyday,5,3,The app sometimes freezes or fails; Fees feel unpredictable and expensive.,1,1,0,0,0,0,0
+B1433,Everyday,4,6,The app works reliably.,0,1,0,0,0,0,0
+B1434,Investor,2,7,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B1435,Everyday,4,9,The app works reliably.,0,1,0,0,0,0,0
+B1436,Saver,2,8,It is hard to find what I need.,0,0,1,0,0,0,0
+B1437,Saver,6,10,The information is easy to understand.,0,0,0,0,0,0,1
+B1438,Saver,4,10,It is hard to find what I need; I trust the app with my money.,0,0,1,0,0,1,0
+B1439,Everyday,5,9,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1440,Everyday,1,10,The information is confusing; Fees are clear and reasonable.,1,0,0,0,0,0,1
+B1441,Saver,5,8,I trust the app with my money.,0,0,0,0,0,1,0
+B1442,Investor,4,3,Important features are missing; The information is easy to understand.,0,0,0,0,1,0,1
+B1443,Everyday,2,10,The features cover what I need; The information is easy to understand.,0,0,0,0,1,0,1
+B1444,Saver,3,9,The information is easy to understand.,0,0,0,0,0,0,1
+B1445,Everyday,6,10,I trust the app with my money.,0,0,0,0,0,1,0
+B1446,Everyday,2,6,Fees are clear and reasonable; I can find what I need easily.,1,0,1,0,0,0,0
+B1447,Everyday,6,10,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B1448,Everyday,1,7,The app works reliably.,0,1,0,0,0,0,0
+B1449,Everyday,2,9,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B1450,Everyday,1,7,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1451,Everyday,2,8,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B1452,Everyday,0,7,Fees feel unpredictable and expensive; The app sometimes freezes or fails.,1,1,0,0,0,0,0
+B1453,Investor,4,10,The features cover what I need.,0,0,0,0,1,0,0
+B1454,Everyday,3,6,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1455,Everyday,0,6,The app works reliably.,0,1,0,0,0,0,0
+B1456,Everyday,2,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1457,Investor,3,9,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1458,Saver,3,8,The information is confusing; I trust the app with my money.,0,0,0,0,0,1,1
+B1459,Everyday,5,5,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B1460,Everyday,5,6,The app sometimes freezes or fails; The information is easy to understand.,0,1,0,0,0,0,1
+B1461,Saver,2,7,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1462,Everyday,1,7,The information is easy to understand.,0,0,0,0,0,0,1
+B1463,Saver,1,4,I trust the app with my money.,0,0,0,0,0,1,0
+B1464,Everyday,4,9,I can find what I need easily.,0,0,1,0,0,0,0
+B1465,Everyday,3,8,It is hard to find what I need; Important features are missing.,0,0,1,0,1,0,0
+B1466,Everyday,6,9,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1467,Investor,3,8,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1468,Everyday,3,8,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1469,Saver,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1470,Everyday,1,6,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B1471,Everyday,1,7,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1472,Everyday,5,7,The app sometimes freezes or fails; Everything feels quick.,0,1,0,1,0,0,0
+B1473,Investor,2,9,Tasks take longer than expected.,0,0,0,1,0,0,0
+B1474,Everyday,4,10,Fees are clear and reasonable; I trust the app with my money.,1,0,0,0,0,1,0
+B1475,Everyday,4,8,Everything feels quick.,0,0,0,1,0,0,0
+B1476,Everyday,4,2,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1477,Investor,2,7,The features cover what I need.,0,0,0,0,1,0,0
+B1478,Saver,1,4,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1479,Saver,4,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1480,Everyday,3,9,I trust the app with my money.,0,0,0,0,0,1,0
+B1481,Saver,1,10,Fees feel unpredictable and expensive; I trust the app with my money.,1,0,0,0,0,1,0
+B1482,Saver,3,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1483,Everyday,0,9,I trust the app with my money; I can find what I need easily.,0,0,1,0,0,1,0
+B1484,Saver,4,5,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1485,Everyday,3,8,Everything feels quick.,0,0,0,1,0,0,0
+B1486,Investor,3,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1487,Investor,0,5,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1488,Saver,0,10,I can find what I need easily; Everything feels quick.,0,0,1,1,0,0,0
+B1489,Saver,4,8,Fees feel unpredictable and expensive; I am not fully confident my money is safe.,1,0,0,0,0,1,0
+B1490,Investor,2,7,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1491,Everyday,4,8,I trust the app with my money; Tasks take longer than expected.,0,0,0,1,0,1,0
+B1492,Saver,2,8,I can find what I need easily; The features cover what I need.,0,0,1,0,1,0,0
+B1493,Everyday,3,10,The app works reliably.,0,1,0,0,0,0,0
+B1494,Saver,3,9,The information is confusing; The features cover what I need.,0,0,0,0,1,0,1
+B1495,Everyday,4,6,The app sometimes freezes or fails; I can find what I need easily.,0,1,1,0,0,0,0
+B1496,Investor,6,10,The features cover what I need; I can find what I need easily.,0,0,1,0,1,0,0
+B1497,Everyday,1,7,I can find what I need easily.,0,0,1,0,0,0,0
+B1498,Everyday,2,9,The app works reliably.,0,1,0,0,0,0,0
+B1499,Investor,2,10,I can find what I need easily.,0,0,1,0,0,0,0
+B1500,Everyday,5,8,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B1501,Saver,2,6,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1502,Everyday,6,8,Important features are missing; The app works reliably.,0,1,0,0,1,0,0
+B1503,Everyday,3,8,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B1504,Everyday,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1505,Investor,2,9,Fees are clear and reasonable; The information is confusing.,1,0,0,0,0,0,1
+B1506,Saver,5,10,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1507,Investor,3,9,The app works reliably.,0,1,0,0,0,0,0
+B1508,Saver,5,7,It is hard to find what I need; The app works reliably.,0,1,1,0,0,0,0
+B1509,Everyday,1,8,The features cover what I need.,0,0,0,0,1,0,0
+B1510,Saver,1,10,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B1511,Everyday,2,10,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1512,Investor,3,10,I trust the app with my money; The information is easy to understand.,0,0,0,0,0,1,1
+B1513,Investor,6,3,Fees feel unpredictable and expensive; I am not fully confident my money is safe.,1,0,0,0,0,1,0
+B1514,Saver,1,10,The app works reliably; The information is easy to understand.,0,1,0,0,0,0,1
+B1515,Saver,1,6,I can find what I need easily; The app works reliably.,0,1,1,0,0,0,0
+B1516,Saver,5,9,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B1517,Everyday,1,6,It is hard to find what I need.,0,0,1,0,0,0,0
+B1518,Saver,1,4,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1519,Investor,3,9,Everything feels quick.,0,0,0,1,0,0,0
+B1520,Saver,2,5,The app sometimes freezes or fails; I am not fully confident my money is safe.,0,1,0,0,0,1,0
+B1521,Investor,5,6,Important features are missing.,0,0,0,0,1,0,0
+B1522,Everyday,5,8,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1523,Everyday,4,7,I am not fully confident my money is safe; Important features are missing.,0,0,0,0,1,1,0
+B1524,Investor,3,9,The information is confusing.,0,0,0,0,0,0,1
+B1525,Investor,3,5,I can find what I need easily.,0,0,1,0,0,0,0
+B1526,Saver,3,6,The app sometimes freezes or fails.,0,1,0,0,0,0,0
+B1527,Everyday,4,7,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1528,Saver,4,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1529,Saver,1,6,I am not fully confident my money is safe.,0,0,0,0,0,1,0
+B1530,Investor,3,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1531,Saver,1,9,Fees feel unpredictable and expensive.,1,0,0,0,0,0,0
+B1532,Saver,5,8,The features cover what I need.,0,0,0,0,1,0,0
+B1533,Everyday,3,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1534,Saver,3,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1535,Investor,4,8,The app sometimes freezes or fails; The features cover what I need.,0,1,0,0,1,0,0
+B1536,Saver,2,7,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B1537,Everyday,3,9,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1538,Everyday,0,7,The app works reliably.,0,1,0,0,0,0,0
+B1539,Everyday,1,6,The features cover what I need.,0,0,0,0,1,0,0
+B1540,Saver,2,8,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1541,Everyday,4,9,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B1542,Investor,3,10,The app works reliably; It is hard to find what I need.,0,1,1,0,0,0,0
+B1543,Everyday,2,10,The app works reliably.,0,1,0,0,0,0,0
+B1544,Everyday,2,6,The app works reliably; Important features are missing.,0,1,0,0,1,0,0
+B1545,Investor,4,9,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1546,Investor,1,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1547,Investor,6,9,The app works reliably.,0,1,0,0,0,0,0
+B1548,Everyday,4,10,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1549,Investor,3,9,I trust the app with my money; Everything feels quick.,0,0,0,1,0,1,0
+B1550,Saver,6,7,Important features are missing; I can find what I need easily.,0,0,1,0,1,0,0
+B1551,Investor,1,10,The information is easy to understand; The features cover what I need.,0,0,0,0,1,0,1
+B1552,Saver,4,10,The features cover what I need.,0,0,0,0,1,0,0
+B1553,Everyday,2,4,The app works reliably.,0,1,0,0,0,0,0
+B1554,Investor,3,10,The app works reliably; The features cover what I need.,0,1,0,0,1,0,0
+B1555,Everyday,2,4,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1556,Investor,4,6,Everything feels quick.,0,0,0,1,0,0,0
+B1557,Everyday,4,6,I am not fully confident my money is safe; I can find what I need easily.,0,0,1,0,0,1,0
+B1558,Investor,3,10,Important features are missing; I trust the app with my money.,0,0,0,0,1,1,0
+B1559,Saver,2,5,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1560,Saver,0,8,Fees are clear and reasonable; It is hard to find what I need.,1,0,1,0,0,0,0
+B1561,Everyday,4,8,Fees are clear and reasonable; The information is confusing.,1,0,0,0,0,0,1
+B1562,Everyday,4,6,Fees feel unpredictable and expensive; Everything feels quick.,1,0,0,1,0,0,0
+B1563,Everyday,5,10,I can find what I need easily; Tasks take longer than expected.,0,0,1,1,0,0,0
+B1564,Saver,3,5,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1565,Saver,2,8,Everything feels quick.,0,0,0,1,0,0,0
+B1566,Everyday,0,8,I am not fully confident my money is safe; The app works reliably.,0,1,0,0,0,1,0
+B1567,Everyday,0,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1568,Everyday,0,6,Fees feel unpredictable and expensive; I can find what I need easily.,1,0,1,0,0,0,0
+B1569,Saver,2,6,Fees feel unpredictable and expensive; It is hard to find what I need.,1,0,1,0,0,0,0
+B1570,Everyday,3,4,Important features are missing.,0,0,0,0,1,0,0
+B1571,Saver,1,7,I trust the app with my money.,0,0,0,0,0,1,0
+B1572,Everyday,4,7,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1573,Everyday,6,4,The app sometimes freezes or fails; Important features are missing.,0,1,0,0,1,0,0
+B1574,Saver,2,9,The app works reliably; I can find what I need easily.,0,1,1,0,0,0,0
+B1575,Everyday,2,9,I trust the app with my money.,0,0,0,0,0,1,0
+B1576,Everyday,2,10,The features cover what I need.,0,0,0,0,1,0,0
+B1577,Everyday,3,7,The features cover what I need; Tasks take longer than expected.,0,0,0,1,1,0,0
+B1578,Investor,3,7,The app works reliably; Everything feels quick.,0,1,0,1,0,0,0
+B1579,Saver,2,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1580,Everyday,3,7,The features cover what I need; Everything feels quick.,0,0,0,1,1,0,0
+B1581,Everyday,2,7,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1582,Everyday,5,8,I trust the app with my money; The features cover what I need.,0,0,0,0,1,1,0
+B1583,Saver,4,4,The information is confusing.,0,0,0,0,0,0,1
+B1584,Everyday,0,9,I can find what I need easily; I trust the app with my money.,0,0,1,0,0,1,0
+B1585,Investor,6,10,Everything feels quick; The information is easy to understand.,0,0,0,1,0,0,1
+B1586,Investor,4,7,It is hard to find what I need; Everything feels quick.,0,0,1,1,0,0,0
+B1587,Saver,1,10,The features cover what I need; Tasks take longer than expected.,0,0,0,1,1,0,0
+B1588,Saver,6,9,The information is confusing; The app works reliably.,0,1,0,0,0,0,1
+B1589,Saver,0,8,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1590,Everyday,4,8,I can find what I need easily.,0,0,1,0,0,0,0
+B1591,Everyday,1,8,It is hard to find what I need; The features cover what I need.,0,0,1,0,1,0,0
+B1592,Everyday,5,6,The app sometimes freezes or fails; I trust the app with my money.,0,1,0,0,0,1,0
+B1593,Saver,3,8,I trust the app with my money.,0,0,0,0,0,1,0
+B1594,Everyday,3,9,Everything feels quick.,0,0,0,1,0,0,0
+B1595,Investor,2,6,It is hard to find what I need; The information is easy to understand.,0,0,1,0,0,0,1
+B1596,Everyday,4,10,The app works reliably; Tasks take longer than expected.,0,1,0,1,0,0,0
+B1597,Investor,6,6,The app sometimes freezes or fails; It is hard to find what I need.,0,1,1,0,0,0,0
+B1598,Everyday,1,4,Fees feel unpredictable and expensive; The app works reliably.,1,1,0,0,0,0,0
+B1599,Investor,2,5,I am not fully confident my money is safe; The features cover what I need.,0,0,0,0,1,1,0
+B1600,Saver,3,8,The app sometimes freezes or fails.,0,1,0,0,0,0,0

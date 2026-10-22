@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "NPS Under the Microscope"
+  page-footer: "Fictional data · Reproducible R analysis · Educational simulations"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Interactive lessons
+      - href: methods.qmd
+        text: Methods & reproducibility
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    code-fold: true
+    link-external-newwindow: true
+    css: assets/lessons.css
+    include-after-body: assets/lessons-scripts.html
+resources:
+  - assets/model_results.js
+  - assets/lessons.js
+  - assets/lessons.css
+  - data/fictional_bank_nps.csv
